@@ -1,0 +1,2518 @@
+GOID: GO:0019814
+Term: immunoglobulin complex
+Ontology: CC
+Definition: A protein complex that in its canonical form is composed of
+    two identical immunoglobulin heavy chains and two identical
+    immunoglobulin light chains, held together by disulfide bonds and
+    sometimes complexed with additional proteins. An immunoglobulin
+    complex may be embedded in the plasma membrane or present in the
+    extracellular space, in mucosal areas or other tissues, or
+    circulating in the blood or lymph.
+Synonym: antibody
+--------------------------------------
+GOID: GO:0003823
+Term: antigen binding
+Ontology: MF
+Definition: Binding to an antigen, any substance which is capable of
+    inducing a specific immune response and of reacting with the
+    products of that response, the specific antibody or specifically
+    sensitized T-lymphocytes, or both. Binding may counteract the
+    biological activity of the antigen. Antigen binding by an MHC
+    protein complex allows the antigen to be displayed to a T cell or
+    NK cell.
+Synonym: antibody activity
+Synonym: B cell receptor activity
+Synonym: major histocompatibility complex activity
+Synonym: major histocompatibility complex antigen display activity
+Synonym: MHC activity
+Synonym: opsonin activity
+--------------------------------------
+GOID: GO:0002250
+Term: adaptive immune response
+Ontology: BP
+Definition: An immune response mediated by cells expressing specific
+    receptors for antigens produced through a somatic diversification
+    process, and allowing for an enhanced secondary response to
+    subsequent exposures to the same antigen (immunological memory).
+Synonym: acquired immune response
+Synonym: immune memory response
+--------------------------------------
+GOID: GO:0006955
+Term: immune response
+Ontology: BP
+Definition: Any immune system process that functions in the calibrated
+    response of an organism to a potential internal or invasive threat.
+--------------------------------------
+GOID: GO:0016064
+Term: immunoglobulin mediated immune response
+Ontology: BP
+Definition: An immune response mediated by immunoglobulins, whether
+    cell-bound or in solution.
+Synonym: antibody-mediated immune response
+--------------------------------------
+GOID: GO:0019724
+Term: B cell mediated immunity
+Ontology: BP
+Definition: Any process involved with the carrying out of an immune
+    response by a B cell, through, for instance, the production of
+    antibodies or cytokines, or antigen presentation to T cells.
+Synonym: B lymphocyte mediated immune effector process
+Synonym: B lymphocyte mediated immunity
+Synonym: B-cell mediated immune effector process
+Synonym: B-cell mediated immunity
+Synonym: B-lymphocyte mediated immune effector process
+Synonym: B-lymphocyte mediated immunity
+--------------------------------------
+GOID: GO:0002376
+Term: immune system process
+Ontology: BP
+Definition: Any process involved in the development or functioning of
+    the immune system, an organismal system for calibrated responses to
+    potential internal or invasive threats.
+--------------------------------------
+GOID: GO:0002449
+Term: lymphocyte mediated immunity
+Ontology: BP
+Definition: Any process involved in the carrying out of an immune
+    response by a lymphocyte.
+Synonym: cell-mediated immunity
+Synonym: cellular immune response
+--------------------------------------
+GOID: GO:0002460
+Term: adaptive immune response based on somatic recombination of immune
+    receptors built from immunoglobulin superfamily domains
+Ontology: BP
+Definition: An immune response mediated by lymphocytes expressing
+    specific receptors for antigen produced through a somatic
+    diversification process that includes somatic recombination of
+    germline gene segments encoding immunoglobulin superfamily domains.
+    Recombined receptors for antigen encoded by immunoglobulin
+    superfamily domains include T cell receptors and immunoglobulins
+    (antibodies) produced by B cells. The first encounter with antigen
+    elicits a primary immune response that is slow and not of great
+    magnitude. T and B cells selected by antigen become activated and
+    undergo clonal expansion. A fraction of antigen-reactive T and B
+    cells become memory cells, whereas others differentiate into
+    effector cells. The memory cells generated during the primary
+    response enable a much faster and stronger secondary immune
+    response upon subsequent exposures to the same antigen
+    (immunological memory). An example of this is the adaptive immune
+    response found in Mus musculus.
+--------------------------------------
+GOID: GO:0002443
+Term: leukocyte mediated immunity
+Ontology: BP
+Definition: Any process involved in the carrying out of an immune
+    response by a leukocyte.
+Synonym: GO:0019723
+Synonym: GO:0042087
+Synonym: immune cell effector process
+Synonym: immune cell mediated immunity
+Synonym: leucocyte immune effector process
+Synonym: leucocyte mediated immunity
+Synonym: leukocyte immune effector process
+Synonym: cell-mediated immune response
+Synonym: cellular immune response
+Secondary: GO:0019723
+Secondary: GO:0042087
+--------------------------------------
+GOID: GO:0005576
+Term: extracellular region
+Ontology: CC
+Definition: The space external to the outermost structure of a cell.
+    For cells without external protective or external encapsulating
+    structures this refers to space outside of the plasma membrane.
+    This term covers the host cell environment outside an intracellular
+    parasite.
+Synonym: extracellular
+--------------------------------------
+GOID: GO:0072562
+Term: blood microparticle
+Ontology: CC
+Definition: A phospholipid microvesicle that is derived from any of
+    several cell types, such as platelets, blood cells, endothelial
+    cells, or others, and contains membrane receptors as well as other
+    proteins characteristic of the parental cell. Microparticles are
+    heterogeneous in size, and are characterized as microvesicles free
+    of nucleic acids.
+Synonym: cell membrane microparticle
+--------------------------------------
+GOID: GO:0002252
+Term: immune effector process
+Ontology: BP
+Definition: Any process of the immune system that executes a component
+    of an immune response. An effector immune process takes place after
+    its activation.
+--------------------------------------
+GOID: GO:0071944
+Term: cell periphery
+Ontology: CC
+Definition: The broad region around and including the plasma membrane
+    of a cell, encompassing the cell cortex (inside the cell), the
+    plasma membrane, and any external encapsulating structures.
+--------------------------------------
+GOID: GO:0005886
+Term: plasma membrane
+Ontology: CC
+Definition: The membrane surrounding a cell that separates the cell
+    from its external environment. It consists of a phospholipid
+    bilayer and associated proteins.
+Synonym: GO:0005887
+Synonym: GO:0005904
+Synonym: cell membrane
+Synonym: cellular membrane
+Synonym: cytoplasmic membrane
+Synonym: plasmalemma
+Synonym: juxtamembrane
+Synonym: bacterial inner membrane
+Synonym: inner endospore membrane
+Synonym: integral component of plasma membrane
+Synonym: integral to plasma membrane
+Synonym: plasma membrane lipid bilayer
+Secondary: GO:0005887
+Secondary: GO:0005904
+--------------------------------------
+GOID: GO:0050896
+Term: response to stimulus
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell or an organism (in terms of movement, secretion, enzyme
+    production, gene expression, etc.) as a result of a stimulus. The
+    process begins with detection of the stimulus and ends with a
+    change in state or activity or the cell or organism.
+Synonym: GO:0051869
+Synonym: physiological response to stimulus
+Secondary: GO:0051869
+--------------------------------------
+GOID: GO:0042571
+Term: immunoglobulin complex, circulating
+Ontology: CC
+Definition: An immunoglobulin complex that is secreted into
+    extracellular space and found in mucosal areas or other tissues or
+    circulating in the blood or lymph. In its canonical form, a
+    circulating immunoglobulin complex is composed of two identical
+    heavy chains and two identical light chains, held together by
+    disulfide bonds. Some forms of are polymers of the basic structure
+    and contain additional components such as J-chain and the secretory
+    component.
+Synonym: antibody
+--------------------------------------
+GOID: GO:0032991
+Term: protein-containing complex
+Ontology: CC
+Definition: A stable assembly of two or more macromolecules, i.e.
+    proteins, nucleic acids, carbohydrates or lipids, in which at least
+    one component is a protein and the constituent parts function
+    together.
+Synonym: GO:0043234
+Synonym: macromolecular complex
+Synonym: macromolecule complex
+Synonym: protein containing complex
+Synonym: protein complex
+Synonym: protein-protein complex
+Secondary: GO:0043234
+--------------------------------------
+GOID: GO:0071735
+Term: IgG immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of an IgG isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds. An IgG
+    immunoglobulin complex may be embedded in the plasma membrane or
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+Synonym: IgG1
+Synonym: IgG2
+Synonym: IgG2a
+Synonym: IgG2b
+Synonym: IgG2c
+Synonym: IgG3
+Synonym: IgG4
+--------------------------------------
+GOID: GO:0034987
+Term: immunoglobulin receptor binding
+Ontology: MF
+Definition: Binding to one or more specific sites on an immunoglobulin
+    receptor molecule.
+Synonym: Fc receptor binding
+--------------------------------------
+GOID: GO:0050853
+Term: B cell receptor signaling pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by the
+    cross-linking of an antigen receptor on a B cell.
+Synonym: B cell receptor signalling pathway
+Synonym: B lymphocyte receptor signaling pathway
+Synonym: B lymphocyte receptor signalling pathway
+Synonym: B-cell receptor signaling pathway
+Synonym: B-cell receptor signalling pathway
+Synonym: B-lymphocyte receptor signaling pathway
+Synonym: B-lymphocyte receptor signalling pathway
+--------------------------------------
+GOID: GO:0071745
+Term: IgA immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of the IgA isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds, and sometimes
+    complexed with J chain or J chain and secretory component. An IgA
+    immunoglobulin complex may be embedded in the plasma membrane or
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+Synonym: IgA1 antibody
+Synonym: IgA2 antibody
+--------------------------------------
+GOID: GO:0071753
+Term: IgM immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of the IgM isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds, and in its
+    circulating form complexed with J chain in polymeric forms. An IgM
+    immunoglobulin complex may be embedded in the plasma membrane or
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+--------------------------------------
+GOID: GO:0016020
+Term: membrane
+Ontology: CC
+Definition: A lipid bilayer along with all the proteins and protein
+    complexes embedded in it and attached to it.
+Synonym: GO:0016021
+Synonym: GO:0098589
+Synonym: GO:0098805
+Synonym: transmembrane
+Synonym: integral component of membrane
+Synonym: integral to membrane
+Synonym: membrane region
+Synonym: region of membrane
+Synonym: whole membrane
+Secondary: GO:0016021
+Secondary: GO:0098589
+Secondary: GO:0098805
+--------------------------------------
+GOID: GO:0002455
+Term: humoral immune response mediated by circulating immunoglobulin
+Ontology: BP
+Definition: An immune response dependent upon secreted immunoglobulin.
+    An example of this process is found in Mus musculus.
+Synonym: circulating antibody mediated immune response
+Synonym: circulating immunoglobulin mediated immune response
+Synonym: humoral immune response mediated by circulating antibody
+Synonym: humoral defence mechanism
+--------------------------------------
+GOID: GO:0071754
+Term: IgM immunoglobulin complex, circulating
+Ontology: CC
+Definition: A polymer of five or six IgM core units each composed of
+    two identical immunoglobulin heavy chains of the IgM isotype and
+    two identical immunoglobulin light chains, held together by
+    disulfide bonds; the individual IgM core units are held together
+    via disulfide bonds with a single J chain polypeptide acting as a
+    bridge between two of the polymeric units. Circulating IgM is
+    present in the extracellular space, in mucosal areas or other
+    tissues, or in the blood or lymph.
+Synonym: IgM antibody
+--------------------------------------
+GOID: GO:0071756
+Term: pentameric IgM immunoglobulin complex
+Ontology: CC
+Definition: A circulating form of IgM consisting of a pentamer of IgM
+    core units with a single J chain polypeptide.
+Synonym: pentameric IgM antibody
+--------------------------------------
+GOID: GO:0019731
+Term: antibacterial humoral response
+Ontology: BP
+Definition: An immune response against bacteria mediated through a body
+    fluid. Examples of this process are the antibacterial humoral
+    responses in Mus musculus and Drosophila melanogaster.
+Synonym: GO:0006961
+Synonym: GO:0019733
+Secondary: GO:0006961
+Secondary: GO:0019733
+--------------------------------------
+GOID: GO:0006958
+Term: complement activation, classical pathway
+Ontology: BP
+Definition: Any process involved in the activation of any of the steps
+    of the classical pathway of the complement cascade which allows for
+    the direct killing of microbes, the disposal of immune complexes,
+    and the regulation of other immune processes.
+Synonym: complement cascade, classical pathway
+--------------------------------------
+GOID: GO:0071748
+Term: monomeric IgA immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of an IgA isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds, and present in the
+    extracellular space, in mucosal areas or other tissues, or
+    circulating in the blood or lymph.
+Synonym: monomeric IgA antibody
+Synonym: monomeric IgA1 antibody
+Synonym: monomeric IgA2 antibody
+--------------------------------------
+GOID: GO:0019730
+Term: antimicrobial humoral response
+Ontology: BP
+Definition: An immune response against microbes mediated through a body
+    fluid. Examples of this process are seen in the antimicrobial
+    humoral response of Drosophila melanogaster and Mus musculus.
+Synonym: GO:0006960
+Synonym: GO:0019735
+Secondary: GO:0006960
+Secondary: GO:0019735
+--------------------------------------
+GOID: GO:0071746
+Term: IgA immunoglobulin complex, circulating
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of an IgA isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds, sometimes complexed
+    with J chain or J chain and secretory component, and present in the
+    extracellular space, in mucosal areas or other tissues, or
+    circulating in the blood or lymph.
+Synonym: IgA antibody
+Synonym: IgA1 antibody
+Synonym: IgA2 antibody
+--------------------------------------
+GOID: GO:0071749
+Term: polymeric IgA immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two, three, or four monomeric
+    IgA immunoglobulin complexes linked through both direct disulfide
+    bonds and through disulfide binded monomers of J chain acting as a
+    bridge. Each IgA monomer consists of two identical immunoglobulin
+    heavy chains of an IgA isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds. Dimeric IgA is
+    sometimes complexed additionally with secretory component, and
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+Synonym: pIgA antibody
+Synonym: polymeric IgA antibody
+Synonym: pIgA1 antibody
+Synonym: polymeric IgA1 antibody
+--------------------------------------
+GOID: GO:0071751
+Term: secretory IgA immunoglobulin complex
+Ontology: CC
+Definition: A polymeric IgA immunoglobulin complex that is complexed
+    with one chain of secretory component (SC). Polymeric IgA is
+    present in mucosal areas, having been transported via a
+    transcytosis mechanism in mucosal epithelial cells relying on the
+    polymeric Ig receptor, a portion of which then remains bound to the
+    polymeric IgA as secretory component.
+Synonym: secretory IgA antibody
+Synonym: sIgA antibody
+Synonym: sIgA1 antibody
+--------------------------------------
+GOID: GO:0071742
+Term: IgE immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of the IgE isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds. An IgE
+    immunoglobulin complex may be embedded in the plasma membrane or
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+--------------------------------------
+GOID: GO:0030185
+Term: nitric oxide transport
+Ontology: BP
+Definition: The directed movement of nitric oxide, nitrogen monoxide,
+    into, out of or within a cell, or between cells, by means of some
+    agent such as a transporter or pore.
+--------------------------------------
+GOID: GO:0006956
+Term: complement activation
+Ontology: BP
+Definition: Any process involved in the activation of any of the steps
+    of the complement cascade, which allows for the direct killing of
+    microbes, the disposal of immune complexes, and the regulation of
+    other immune processes; the initial steps of complement activation
+    involve one of three pathways, the classical pathway, the
+    alternative pathway, and the lectin pathway, all of which lead to
+    the terminal complement pathway.
+Synonym: complement cascade
+Synonym: complement response
+Synonym: complement activity
+--------------------------------------
+GOID: GO:0006959
+Term: humoral immune response
+Ontology: BP
+Definition: An immune response mediated through a body fluid.
+--------------------------------------
+GOID: GO:0050851
+Term: antigen receptor-mediated signaling pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by the
+    cross-linking of an antigen receptor on a B or T cell.
+Synonym: antigen receptor-mediated signalling pathway
+--------------------------------------
+GOID: GO:0003014
+Term: renal system process
+Ontology: BP
+Definition: A organ system process carried out by any of the organs or
+    tissues of the renal system. The renal system maintains fluid
+    balance, and contributes to electrolyte balance, acid/base balance,
+    and disposal of nitrogenous waste products. In humans, the renal
+    system comprises a pair of kidneys, a pair of ureters, urinary
+    bladder, urethra, sphincter muscle and associated blood vessels; in
+    other species, the renal system may comprise related structures
+    (e.g., nephrocytes and malpighian tubules in Drosophila).
+Synonym: excretory system process
+Synonym: kidney system process
+--------------------------------------
+GOID: GO:0005615
+Term: extracellular space
+Ontology: CC
+Definition: That part of a multicellular organism outside the cells
+    proper, usually taken to be outside the plasma membranes, and
+    occupied by fluid.
+Synonym: intercellular space
+--------------------------------------
+GOID: GO:0031720
+Term: haptoglobin binding
+Ontology: MF
+Definition: Binding to a haptoglobin, any alpha2 globulin of blood
+    plasma that can combine with free oxyhemoglobin to form a stable
+    complex.
+--------------------------------------
+GOID: GO:0071750
+Term: dimeric IgA immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two monomeric IgA
+    immunoglobulin complexes linked through both direct disulfide bonds
+    and through a disulfide binded monomer of J chain acting as a
+    bridge. Each IgA monomer consists of two identical immunoglobulin
+    heavy chains of an IgA isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds. Dimeric IgA is
+    sometimes complexed additionally with secretory component, and
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+Synonym: dimeric IgA antibody
+Synonym: dimeric IgA1 antibody
+--------------------------------------
+GOID: GO:0071752
+Term: secretory dimeric IgA immunoglobulin complex
+Ontology: CC
+Definition: A dimeric form of secretory IgA immunoglobulin complex.
+Synonym: secretory dimeric IgA antibody
+Synonym: secretory dimeric IgA1 antibody
+--------------------------------------
+GOID: GO:0160006
+Term: Fc receptor-mediated immune complex endocytosis
+Ontology: BP
+Definition: NA
+Synonym: antigen-antibody immune complex uptake via Fc receptor
+Synonym: Ig-complexed antigen endocytosis via Fc receptor
+Synonym: Fc receptor-mediated immune complex internalization
+--------------------------------------
+GOID: GO:0031838
+Term: haptoglobin-hemoglobin complex
+Ontology: CC
+Definition: A protein complex formed by the stable binding of a
+    haptoglobin to hemoglobin.
+--------------------------------------
+GOID: GO:0005833
+Term: hemoglobin complex
+Ontology: CC
+Definition: An iron-containing, oxygen carrying complex. In vertebrates
+    it is made up of two pairs of associated globin polypeptide chains,
+    each chain carrying a noncovalently bound heme prosthetic group.
+Synonym: haemoglobin complex
+--------------------------------------
+GOID: GO:0005344
+Term: oxygen carrier activity
+Ontology: MF
+Definition: Binding to oxygen and delivering it to an acceptor molecule
+    or a specific location.
+Synonym: GO:0015033
+Synonym: globin
+Synonym: hemerythrin
+Synonym: hemocyanin
+Synonym: oxygen-carrying
+Secondary: GO:0015033
+--------------------------------------
+GOID: GO:0015670
+Term: carbon dioxide transport
+Ontology: BP
+Definition: The directed movement of carbon dioxide (CO2) into, out of
+    or within a cell, or between cells, by means of some agent such as
+    a transporter or pore.
+--------------------------------------
+GOID: GO:0015671
+Term: oxygen transport
+Ontology: BP
+Definition: The directed movement of oxygen (O2) into, out of or within
+    a cell, or between cells, by means of some agent such as a
+    transporter or pore.
+--------------------------------------
+GOID: GO:0045236
+Term: CXCR chemokine receptor binding
+Ontology: MF
+Definition: Binding to a chemokine receptor in the CXCR family.
+Synonym: alpha chemokine receptor binding
+Synonym: alpha chemokine receptor ligand
+Synonym: C-X-C chemokine receptor ligand
+Synonym: CXC chemokine receptor ligand
+--------------------------------------
+GOID: GO:0002429
+Term: immune response-activating cell surface receptor signaling
+    pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by an
+    extracellular ligand binding to a receptor on the surface of a
+    cell, leading to the activation or perpetuation of an immune
+    response.
+Synonym: activation of immune response by cell surface receptor
+    signaling pathway
+Synonym: immune response-activating cell surface receptor signalling
+    pathway
+--------------------------------------
+GOID: GO:0071738
+Term: IgD immunoglobulin complex
+Ontology: CC
+Definition: A protein complex composed of two identical immunoglobulin
+    heavy chains of the IgD isotype and two identical immunoglobulin
+    light chains, held together by disulfide bonds. An IgD
+    immunoglobulin complex may be embedded in the plasma membrane or
+    present in the extracellular space, in mucosal areas or other
+    tissues, or circulating in the blood or lymph.
+--------------------------------------
+GOID: GO:0003094
+Term: glomerular filtration
+Ontology: BP
+Definition: The process in which plasma is filtered through the
+    glomerular membrane which consists of capillary endothelial cells,
+    the basement membrane, and epithelial cells. The glomerular
+    filtrate is the same as plasma except it has no significant amount
+    of protein.
+--------------------------------------
+GOID: GO:0071682
+Term: endocytic vesicle lumen
+Ontology: CC
+Definition: The volume enclosed by the membrane of an endocytic
+    vesicle.
+--------------------------------------
+GOID: GO:0070098
+Term: chemokine-mediated signaling pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by a chemokine
+    binding to its receptor on the surface of a target cell, and ending
+    with the regulation of a downstream cellular process, e.g.
+    transcription.
+Synonym: chemokine-mediated signalling pathway
+--------------------------------------
+GOID: GO:0015669
+Term: gas transport
+Ontology: BP
+Definition: The directed movement of substances that are gaseous in
+    normal living conditions into, out of or within a cell, or between
+    cells, by means of some agent such as a transporter or pore.
+--------------------------------------
+GOID: GO:0097205
+Term: renal filtration
+Ontology: BP
+Definition: A renal system process in which fluid circulating through
+    the body is filtered through a barrier system.
+--------------------------------------
+GOID: GO:0019815
+Term: B cell receptor complex
+Ontology: CC
+Definition: An immunoglobulin complex that is present in the plasma
+    membrane of B cells and that in its canonical form is composed of
+    two identical immunoglobulin heavy chains and two identical
+    immunoglobulin light chains and a signaling subunit, a heterodimer
+    of the Ig-alpha and Ig-beta proteins.
+Synonym: GO:0042570
+Synonym: B lymphocyte receptor complex
+Synonym: B-cell receptor complex
+Synonym: B-lymphocyte receptor complex
+Synonym: BCR complex
+Synonym: immunoglobulin complex, membrane bound
+Synonym: antibody
+Synonym: B cell receptor accessory molecule complex
+Secondary: GO:0042570
+--------------------------------------
+GOID: GO:0002768
+Term: immune response-regulating cell surface receptor signaling
+    pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by an
+    extracellular ligand binding to a receptor on the surface of the
+    target cell capable of activating, perpetuating, or inhibiting an
+    immune response.
+Synonym: immune response-regulating cell surface receptor signalling
+    pathway
+--------------------------------------
+GOID: GO:1990868
+Term: response to chemokine
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:1990869
+Term: cellular response to chemokine
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:0019755
+Term: one-carbon compound transport
+Ontology: BP
+Definition: The directed movement of one-carbon compounds into, out of
+    or within a cell, or between cells, by means of some agent such as
+    a transporter or pore.
+Synonym: one carbon compound transport
+--------------------------------------
+GOID: GO:0016494
+Term: C-X-C chemokine receptor activity
+Ontology: MF
+Definition: Combining with a C-X-C chemokine and transmitting the
+    signal from one side of the membrane to the other to initiate a
+    change in cell activity. A C-X-C chemokine has a single amino acid
+    between the first two cysteines of the characteristic four cysteine
+    motif.
+--------------------------------------
+GOID: GO:0045880
+Term: positive regulation of smoothened signaling pathway
+Ontology: BP
+Definition: Any process that activates or increases the frequency, rate
+    or extent of smoothened signaling.
+Synonym: GO:0045878
+Synonym: positive regulation of hedgehog signaling pathway
+Synonym: positive regulation of hh signaling pathway
+Synonym: positive regulation of smoothened signalling pathway
+Synonym: up regulation of smoothened signaling pathway
+Synonym: up-regulation of smoothened signaling pathway
+Synonym: upregulation of smoothened signaling pathway
+Synonym: positive regulation of smoothened by patched
+Synonym: positive regulation of smoothened receptor activity by patched
+Synonym: activation of smoothened signaling pathway
+Synonym: stimulation of smoothened signaling pathway
+Secondary: GO:0045878
+--------------------------------------
+GOID: GO:0060267
+Term: positive regulation of respiratory burst
+Ontology: BP
+Definition: Any process that increases the rate frequency or extent of
+    a phase of elevated metabolic activity, during which oxygen
+    consumption increases; this leads to the production, by an NADH
+    dependent system, of hydrogen peroxide (H2O2), superoxide anions
+    and hydroxyl radicals.
+--------------------------------------
+GOID: GO:0001788
+Term: antibody-dependent cellular cytotoxicity
+Ontology: BP
+Definition: Cytolysis of target cells by natural killer cells,
+    eosinophils, neutrophils, monocytes, or macrophages following
+    engagement of antibodies bound to the target cells by Fc receptors
+    on the effector cells.
+Synonym: ADCC
+Synonym: antibody dependent cell death
+Synonym: antibody dependent cell killing
+Synonym: antibody-dependent cell death
+Synonym: antibody-dependent cell killing
+Synonym: type VI hypersensitivity
+--------------------------------------
+GOID: GO:0042744
+Term: hydrogen peroxide catabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways resulting in the
+    breakdown of hydrogen peroxide (H2O2).
+Synonym: H2O2 catabolic process
+Synonym: hydrogen peroxide breakdown
+Synonym: hydrogen peroxide catabolism
+Synonym: hydrogen peroxide degradation
+Synonym: detoxification of H2O2
+Synonym: detoxification of hydrogen peroxide
+Synonym: H2O2 scavenging
+Synonym: hydrogen peroxide removal
+Synonym: hydrogen peroxide scavenging
+--------------------------------------
+GOID: GO:0001794
+Term: type IIa hypersensitivity
+Ontology: BP
+Definition: An inflammatory response resulting in cell death mediated
+    by activation of the classical complement pathway or induction of
+    effector cell phagocytosis or cytolysis mechanisms via complement
+    or Fc receptors following the binding of antibodies to cell surface
+    antigens on a target cell.
+--------------------------------------
+GOID: GO:0002445
+Term: type II hypersensitivity
+Ontology: BP
+Definition: An inflammatory response resulting in cell death or
+    dysfunction mediated by activation of the classical complement
+    pathway or induction of effector cell phagocytosis, cytolysis
+    mechanisms via complement or Fc receptors following the binding of
+    antibodies to cell surface antigens on a target cell, or mediated
+    by the direct binding of antibody to cellular receptors.
+--------------------------------------
+GOID: GO:0042742
+Term: defense response to bacterium
+Ontology: BP
+Definition: Reactions triggered in response to the presence of a
+    bacterium that act to protect the cell or organism.
+Synonym: GO:0009816
+Synonym: GO:0042830
+Synonym: defence response to bacteria
+Synonym: defence response to bacterium
+Synonym: defense response to bacteria
+Synonym: antibacterial peptide activity
+Synonym: defense response to bacterium, incompatible interaction
+Synonym: resistance response to pathogenic bacteria
+Synonym: resistance response to pathogenic bacterium
+Secondary: GO:0009816
+Secondary: GO:0042830
+--------------------------------------
+GOID: GO:0021702
+Term: cerebellar Purkinje cell differentiation
+Ontology: BP
+Definition: The process in which neuroblasts acquire specialized
+    structural and/or functional features that characterize the mature
+    cerebellar Purkinje cell. Differentiation includes the processes
+    involved in commitment of a neuroblast to a Purkinje cell fate. A
+    Purkinje cell is an inhibitory GABAergic neuron found in the
+    cerebellar cortex that projects to the deep cerebellar nuclei and
+    brain stem.
+--------------------------------------
+GOID: GO:0071492
+Term: cellular response to UV-A
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell (in terms of movement, secretion, enzyme production, gene
+    expression, etc.) as a result of a UV-A radiation stimulus. UV-A
+    radiation (UV-A light) spans the wavelengths 315 to 400 nm.
+Synonym: cellular response to UV-A light stimulus
+Synonym: cellular response to UV-A radiation stimulus
+Synonym: cellular response to UVA light stimulus
+Synonym: cellular response to UVA radiation stimulus
+--------------------------------------
+GOID: GO:0019825
+Term: oxygen binding
+Ontology: MF
+Definition: Binding to oxygen (O2).
+Synonym: cytochrome P450 activity
+Synonym: cytochrome P450
+--------------------------------------
+GOID: GO:0001664
+Term: G protein-coupled receptor binding
+Ontology: MF
+Definition: Binding to a G protein-coupled receptor.
+Synonym: G protein coupled receptor binding
+Synonym: G-protein coupled receptor binding
+Synonym: G protein coupled receptor ligand
+Synonym: G-protein-coupled receptor ligand
+--------------------------------------
+GOID: GO:0021694
+Term: cerebellar Purkinje cell layer formation
+Ontology: BP
+Definition: The process that gives rise to the cerebellar Purkinje cell
+    layer. This process pertains to the initial formation of a
+    structure from unspecified parts. The Purkinje cell layer lies just
+    underneath the molecular layer of the cerebellar cortex. It
+    contains the neuronal cell bodies of the Purkinje cells that are
+    arranged side by side in a single layer. Candelabrum interneurons
+    are vertically oriented between the Purkinje cells. Purkinje
+    neurons are inhibitory and provide the output of the cerebellar
+    cortex through axons that project into the white matter. Extensive
+    dendritic trees from the Purkinje cells extend upward in a single
+    plane into the molecular layer where they synapse with parallel
+    fibers of granule cells.
+--------------------------------------
+GOID: GO:0070702
+Term: inner mucus layer
+Ontology: CC
+Definition: The inner of two mucus layers secreted by epithelial cells
+    in the colon; the inner mucus layer is firmly attached to the
+    epithelium, is densely packed with a compact stratified appearance
+    and is devoid of bacteria.
+--------------------------------------
+GOID: GO:0070703
+Term: outer mucus layer
+Ontology: CC
+Definition: The outer of two mucus layers secreted by epithelial cells
+    in the colon; the outer mucus layer is loosely packed and can be
+    colonized by bacteria.
+--------------------------------------
+GOID: GO:0070141
+Term: response to UV-A
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell or an organism (in terms of movement, secretion, enzyme
+    production, gene expression, etc.) as a result of a UV-A radiation
+    stimulus. UV-A radiation (UV-A light) spans the wavelengths 315 to
+    400 nm.
+Synonym: response to UV-A light stimulus
+Synonym: response to UV-A radiation stimulus
+Synonym: response to UVA light stimulus
+Synonym: response to UVA radiation stimulus
+--------------------------------------
+GOID: GO:0030593
+Term: neutrophil chemotaxis
+Ontology: BP
+Definition: The directed movement of a neutrophil cell, the most
+    numerous polymorphonuclear leukocyte found in the blood, in
+    response to an external stimulus, usually an infection or wounding.
+--------------------------------------
+GOID: GO:0021692
+Term: cerebellar Purkinje cell layer morphogenesis
+Ontology: BP
+Definition: The process in which the anatomical structure of the
+    cerebellar Purkinje cell layer is generated and organized. The
+    Purkinje cell layer lies just underneath the molecular layer of the
+    cerebellar cortex. It contains the neuronal cell bodies of the
+    Purkinje cells that are arranged side by side in a single layer.
+    Candelabrum interneurons are vertically oriented between the
+    Purkinje cells. Purkinje neurons are inhibitory and provide the
+    output of the cerebellar cortex through axons that project into the
+    white matter. Extensive dendritic trees from the Purkinje cells
+    extend upward in a single plane into the molecular layer where they
+    synapse with parallel fibers of granule cells.
+--------------------------------------
+GOID: GO:0009617
+Term: response to bacterium
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell or an organism (in terms of movement, secretion, enzyme
+    production, gene expression, etc.) as a result of a stimulus from a
+    bacterium.
+Synonym: GO:0009618
+Synonym: GO:0009680
+Synonym: response to bacteria
+Secondary: GO:0009618
+Secondary: GO:0009680
+--------------------------------------
+GOID: GO:0070062
+Term: extracellular exosome
+Ontology: CC
+Definition: A vesicle that is released into the extracellular region by
+    fusion of the limiting endosomal membrane of a multivesicular body
+    with the plasma membrane. Extracellular exosomes, also simply
+    called exosomes, have a diameter of about 40-100 nm.
+Synonym: exosome
+Synonym: extracellular vesicular exosome
+--------------------------------------
+GOID: GO:0019101
+Term: female somatic sex determination
+Ontology: BP
+Definition: The determination of sex and sexual phenotypes in a female
+    organism's soma.
+--------------------------------------
+GOID: GO:0060014
+Term: granulosa cell differentiation
+Ontology: BP
+Definition: The process in which a relatively unspecialized cell
+    acquires the specialized features of a granulosa cell, a supporting
+    cell for the developing female gamete in the ovary of mammals.
+--------------------------------------
+GOID: GO:0001793
+Term: IgM receptor activity
+Ontology: MF
+Definition: Combining with an immunoglobulin of the IgM isotype via the
+    Fc region, and transmitting the signal from one side of the
+    membrane to the other to initiate a change in cell activity.
+--------------------------------------
+GOID: GO:0002172
+Term: high-affinity IgM receptor activity
+Ontology: MF
+Definition: Combining with high affinity with an immunoglobulin of an
+    IgM isotype via the Fc region, and transmitting the signal from one
+    side of the membrane to the other to initiate a change in cell
+    activity.
+Synonym: high affinity IgM receptor activity
+--------------------------------------
+GOID: GO:0071744
+Term: IgE B cell receptor complex
+Ontology: CC
+Definition: An IgE immunoglobulin complex that is present in the plasma
+    membrane of B cells and is composed of two identical immunoglobulin
+    heavy chains of the IgE isotype and two identical immunoglobulin
+    light chains and a signaling subunit, a heterodimer of the Ig-alpha
+    and Ig-beta proteins.
+Synonym: membrane-bound IgE
+Synonym: surface IgE
+--------------------------------------
+GOID: GO:0071757
+Term: hexameric IgM immunoglobulin complex
+Ontology: CC
+Definition: A circulating form of IgM consisting of a hexamer of IgM
+    core units with a single J chain polypeptide.
+Synonym: hexameric IgM antibody
+--------------------------------------
+GOID: GO:1903561
+Term: extracellular vesicle
+Ontology: CC
+Definition: NA
+Synonym: microparticle
+--------------------------------------
+GOID: GO:0043230
+Term: extracellular organelle
+Ontology: CC
+Definition: Organized structure of distinctive morphology and function,
+    occurring outside the cell. Includes, for example, extracellular
+    membrane vesicles (EMVs) and the cellulosomes of anaerobic bacteria
+    and fungi.
+--------------------------------------
+GOID: GO:0065010
+Term: extracellular membrane-bounded organelle
+Ontology: CC
+Definition: Organized structure of distinctive morphology and function,
+    bounded by a lipid bilayer membrane and occurring outside the cell.
+Synonym: extracellular membrane-enclosed organelle
+--------------------------------------
+GOID: GO:0045107
+Term: intermediate filament polymerization
+Ontology: BP
+Definition: Assembly of intermediate filaments by the addition of
+    component monomers to a filament. Polymerization of intermediate
+    filament proteins results from interactions among several distinct
+    binding sites on the constituent proteins. Nuclear lamin
+    head-to-tail polymers arise from one such interaction. Deletion
+    analysis localized the binding sites to the ends of the rod domain
+    that are highly conserved among all intermediate filament proteins.
+    Data indicate that one type of interaction in intermediate filament
+    protein polymerization is the longitudinal binding of dimers via
+    the conserved end segments of the coiled-coil rod domain.
+--------------------------------------
+GOID: GO:0036230
+Term: granulocyte activation
+Ontology: BP
+Definition: The change in morphology and behavior of a granulocyte
+    resulting from exposure to a cytokine, chemokine, cellular ligand,
+    or soluble factor.
+--------------------------------------
+GOID: GO:0045352
+Term: interleukin-1 type I receptor antagonist activity
+Ontology: MF
+Definition: Blocks the binding of interleukin-1 to interleukin-1 type I
+    receptors.
+Synonym: IL-1ra type I
+--------------------------------------
+GOID: GO:0045353
+Term: interleukin-1 type II receptor antagonist activity
+Ontology: MF
+Definition: Blocks the binding of interleukin-1 to interleukin-1 type
+    II receptors.
+Synonym: IL-1ra type II
+--------------------------------------
+GOID: GO:0002524
+Term: hypersensitivity
+Ontology: BP
+Definition: An inflammatory response to an exogenous environmental
+    antigen or an endogenous antigen initiated by the adaptive immune
+    system.
+Synonym: hypersensitivity response
+--------------------------------------
+GOID: GO:0001979
+Term: regulation of systemic arterial blood pressure by chemoreceptor
+    signaling
+Ontology: BP
+Definition: The process that modulates blood pressure by the action of
+    chemoreceptors found in the carotid and aortic bodies and their
+    resultant modulation of the vasomotor center. Chemoreceptors
+    respond to oxygen, carbon dioxide and hydrogen ions.
+Synonym: chemoreceptor regulation of systemic arterial blood pressure
+Synonym: regulation of systemic arterial blood pressure by
+    chemoreceptor signalling
+Synonym: chemoreceptor control of blood pressure
+--------------------------------------
+GOID: GO:0002007
+Term: detection of hypoxic conditions in blood by chemoreceptor
+    signaling
+Ontology: BP
+Definition: The process in which information about a lack of oxygen are
+    received and are converted to a molecular signal by chemoreceptors
+    in the carotid bodies and the aortic bodies.
+Synonym: detection of hypoxic conditions in blood by chemoreceptor
+    signalling
+--------------------------------------
+GOID: GO:0003027
+Term: regulation of systemic arterial blood pressure by carotid body
+    chemoreceptor signaling
+Ontology: BP
+Definition: The process that modulates blood pressure by the action of
+    chemoreceptors found in the carotid bodies and their resultant
+    modulation of the vasomotor center. Chemoreceptors respond to
+    oxygen, carbon dioxide and hydrogen ions.
+Synonym: carotid body chemoreceptor regulation of systemic arterial
+    blood pressure
+Synonym: carotid body chemoreceptor response to lowering of systemic
+    arterial blood pressure
+Synonym: regulation of systemic arterial blood pressure by carotid body
+    chemoreceptor signalling
+Synonym: vagal reflex
+--------------------------------------
+GOID: GO:0003029
+Term: detection of hypoxic conditions in blood by carotid body
+    chemoreceptor signaling
+Ontology: BP
+Definition: The process in which information about a lack of oxygen are
+    received and are converted to a molecular signal by chemoreceptors
+    in the carotid bodies.
+Synonym: detection of hypoxic conditions in blood by carotid body
+    chemoreceptor signalling
+--------------------------------------
+GOID: GO:0001567
+Term: cholesterol 25-hydroxylase activity
+Ontology: MF
+Definition: Catalysis of the reaction: AH(2) + cholesterol + O2 =
+    25-hydroxycholesterol + A + H2O.
+Synonym: cholesterol 25-monooxygenase activity
+Synonym: cholesterol,hydrogen-donor:oxygen oxidoreductase
+    (25-hydroxylating) activity
+--------------------------------------
+GOID: GO:1903913
+Term: regulation of fusion of virus membrane with host plasma membrane
+Ontology: BP
+Definition: NA
+Synonym: regulation of viral envelope fusion with host cell membrane
+Synonym: regulation of viral envelope fusion with host membrane
+Synonym: regulation of viral envelope fusion with host plasma membrane
+Synonym: regulation of viral penetration via membrane fusion
+Synonym: regulation of viral entry into host cell via membrane fusion
+    with the plasma membrane
+Synonym: regulation of viral-cell fusion molecule activity
+Synonym: regulation of viral envelope fusion
+--------------------------------------
+GOID: GO:1903914
+Term: negative regulation of fusion of virus membrane with host plasma
+    membrane
+Ontology: BP
+Definition: NA
+Synonym: down regulation of fusion of virus membrane with host plasma
+    membrane
+Synonym: down regulation of viral envelope fusion with host cell
+    membrane
+Synonym: down regulation of viral envelope fusion with host membrane
+Synonym: down regulation of viral envelope fusion with host plasma
+    membrane
+Synonym: down regulation of viral penetration via membrane fusion
+Synonym: down-regulation of fusion of virus membrane with host plasma
+    membrane
+Synonym: down-regulation of viral envelope fusion with host cell
+    membrane
+Synonym: down-regulation of viral envelope fusion with host membrane
+Synonym: down-regulation of viral envelope fusion with host plasma
+    membrane
+Synonym: down-regulation of viral penetration via membrane fusion
+Synonym: downregulation of fusion of virus membrane with host plasma
+    membrane
+Synonym: downregulation of viral envelope fusion with host cell
+    membrane
+Synonym: downregulation of viral envelope fusion with host membrane
+Synonym: downregulation of viral envelope fusion with host plasma
+    membrane
+Synonym: downregulation of viral penetration via membrane fusion
+Synonym: negative regulation of viral envelope fusion with host cell
+    membrane
+Synonym: negative regulation of viral envelope fusion with host
+    membrane
+Synonym: negative regulation of viral envelope fusion with host plasma
+    membrane
+Synonym: negative regulation of viral penetration via membrane fusion
+Synonym: down regulation of viral entry into host cell via membrane
+    fusion with the plasma membrane
+Synonym: down regulation of viral-cell fusion molecule activity
+Synonym: down-regulation of viral entry into host cell via membrane
+    fusion with the plasma membrane
+Synonym: down-regulation of viral-cell fusion molecule activity
+Synonym: downregulation of viral entry into host cell via membrane
+    fusion with the plasma membrane
+Synonym: downregulation of viral-cell fusion molecule activity
+Synonym: inhibition of viral entry into host cell via membrane fusion
+    with the plasma membrane
+Synonym: inhibition of viral-cell fusion molecule activity
+Synonym: negative regulation of viral entry into host cell via membrane
+    fusion with the plasma membrane
+Synonym: negative regulation of viral-cell fusion molecule activity
+Synonym: inhibition of fusion of virus membrane with host plasma
+    membrane
+Synonym: inhibition of viral envelope fusion with host cell membrane
+Synonym: inhibition of viral envelope fusion with host membrane
+Synonym: inhibition of viral envelope fusion with host plasma membrane
+Synonym: inhibition of viral penetration via membrane fusion
+--------------------------------------
+GOID: GO:0005200
+Term: structural constituent of cytoskeleton
+Ontology: MF
+Definition: The action of a molecule that contributes to the structural
+    integrity of a cytoskeletal structure.
+--------------------------------------
+GOID: GO:0005539
+Term: glycosaminoglycan binding
+Ontology: MF
+Definition: Binding to a glycan (polysaccharide) containing a
+    substantial proportion of aminomonosaccharide residues.
+--------------------------------------
+GOID: GO:0060263
+Term: regulation of respiratory burst
+Ontology: BP
+Definition: Any process that modulates the rate frequency or extent of
+    a phase of elevated metabolic activity, during which oxygen
+    consumption increases; this leads to the production, by an NADH
+    dependent system, of hydrogen peroxide (H2O2), superoxide anions
+    and hydroxyl radicals.
+--------------------------------------
+GOID: GO:0021533
+Term: cell differentiation in hindbrain
+Ontology: BP
+Definition: The process in which relatively unspecialized cells acquire
+    specialized structural and/or functional features that characterize
+    the mature cells of the hindbrain. Differentiation includes the
+    processes involved in commitment of a cell to a specific fate.
+--------------------------------------
+GOID: GO:0042834
+Term: peptidoglycan binding
+Ontology: MF
+Definition: Interacting selectively and non-covalently, in a
+    non-covalent manner, with peptidoglycan, any of a class of
+    glycoconjugates found in bacterial cell walls.
+--------------------------------------
+GOID: GO:0031855
+Term: oxytocin receptor binding
+Ontology: MF
+Definition: Binding to an oxytocin receptor.
+Synonym: oxytocin receptor ligand
+--------------------------------------
+GOID: GO:0060450
+Term: positive regulation of hindgut contraction
+Ontology: BP
+Definition: Any process that increases the frequency, rate or extent of
+    muscle contraction of the hindgut, the posterior part of the
+    alimentary canal, including the rectum, and the large intestine.
+--------------------------------------
+GOID: GO:0022617
+Term: extracellular matrix disassembly
+Ontology: BP
+Definition: A process that results in the breakdown of the
+    extracellular matrix.
+--------------------------------------
+GOID: GO:0060739
+Term: mesenchymal-epithelial cell signaling involved in prostate gland
+    development
+Ontology: BP
+Definition: Any process that mediates the transfer of information from
+    a mesenchymal cell to an epithelial cell where it is received and
+    interpreted contributing to the progression of the prostate gland
+    over time.
+Synonym: mesenchymal-epithelial cell signalling involved in prostate
+    gland development
+--------------------------------------
+GOID: GO:1902691
+Term: respiratory basal cell differentiation
+Ontology: BP
+Definition: NA
+Synonym: airway basal cell differentiation
+--------------------------------------
+GOID: GO:1990266
+Term: neutrophil migration
+Ontology: BP
+Definition: NA
+--------------------------------------
+GOID: GO:0008009
+Term: chemokine activity
+Ontology: MF
+Definition: The function of a family of small chemotactic cytokines;
+    their name is derived from their ability to induce directed
+    chemotaxis in nearby responsive cells. All chemokines possess a
+    number of conserved cysteine residues involved in intramolecular
+    disulfide bond formation. Some chemokines are considered
+    pro-inflammatory and can be induced during an immune response to
+    recruit cells of the immune system to a site of infection, while
+    others are considered homeostatic and are involved in controlling
+    the migration of cells during normal processes of tissue
+    maintenance or development. Chemokines are found in all
+    vertebrates, some viruses and some bacteria.
+--------------------------------------
+GOID: GO:0090720
+Term: primary adaptive immune response
+Ontology: BP
+Definition: An adaptive immune response against an antigen not
+    previously encountered by immune system.
+--------------------------------------
+GOID: GO:0061144
+Term: alveolar secondary septum development
+Ontology: BP
+Definition: The progression of a secondary alveolar septum over time,
+    from its formation to the mature structure. A secondary alveolar
+    septum is a specialized epithelium that subdivides the initial
+    saccule.
+--------------------------------------
+GOID: GO:0070319
+Term: Golgi to plasma membrane transport vesicle
+Ontology: CC
+Definition: A transport vesicle that mediates transport from the Golgi
+    to the plasma membrane, and fuses with the plasma membrane to
+    release various cargo molecules, such as proteins or hormones, by
+    exocytosis.
+Synonym: Golgi to plasma membrane constitutive secretory pathway
+    transport vesicle
+Synonym: Golgi-plasma membrane transport vesicle
+--------------------------------------
+GOID: GO:0042743
+Term: hydrogen peroxide metabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways involving hydrogen
+    peroxide (H2O2), a potentially harmful byproduct of aerobic
+    cellular respiration which can cause damage to DNA.
+Synonym: H2O2 metabolic process
+Synonym: hydrogen peroxide metabolism
+--------------------------------------
+GOID: GO:0030237
+Term: female sex determination
+Ontology: BP
+Definition: The specification of female sex of an individual organism.
+--------------------------------------
+GOID: GO:0001790
+Term: polymeric immunoglobulin binding
+Ontology: MF
+Definition: Binding to a J-chain-containing polymeric immunoglobulin of
+    the IgA or IgM isotypes.
+--------------------------------------
+GOID: GO:0021697
+Term: cerebellar cortex formation
+Ontology: BP
+Definition: The process that gives rise to the cerebellar cortex. This
+    process pertains to the initial formation of a structure from
+    unspecified parts. The cerebellar cortex is a thin mantle of gray
+    matter that covers the surface of each cerebral hemisphere. It has
+    a characteristic morphology with convolutions (gyri) and crevices
+    (sulci) that have specific functions. Six layers of nerve cells and
+    the nerve pathways that connect them comprise the cerebellar
+    cortex. Together, these regions are responsible for the processes
+    of conscious thought, perception, emotion and memory as well as
+    advanced motor function.
+--------------------------------------
+GOID: GO:0032980
+Term: keratinocyte activation
+Ontology: BP
+Definition: A change in the morphology or behavior of a keratinocyte
+    resulting from exposure to an activating factor such as a cellular
+    or soluble ligand. Upon activation, keratinocytes become migratory
+    and hyperproliferative, and produce growth factors and cytokines.
+--------------------------------------
+GOID: GO:0002757
+Term: immune response-activating signaling pathway
+Ontology: BP
+Definition: The series of molecular signals generated by a ligand
+    binding to its receptor that lead to the activation or perpetuation
+    of an immune response.
+Synonym: immune response-activating signal transduction
+--------------------------------------
+GOID: GO:0021680
+Term: cerebellar Purkinje cell layer development
+Ontology: BP
+Definition: The process whose specific outcome is the progression of
+    the cerebellar Purkinje cell layer over time, from its formation to
+    the mature structure. The Purkinje cell layer lies just underneath
+    the molecular layer of the cerebellar cortex. It contains the
+    neuronal cell bodies of the Purkinje cells that are arranged side
+    by side in a single layer. Candelabrum interneurons are vertically
+    oriented between the Purkinje cells. Purkinje neurons are
+    inhibitory and provide the output of the cerebellar cortex through
+    axons that project into the white matter. Extensive dendritic trees
+    from the Purkinje cells extend upward in a single plane into the
+    molecular layer where they synapse with parallel fibers of granule
+    cells.
+--------------------------------------
+GOID: GO:0005151
+Term: interleukin-1, type II receptor binding
+Ontology: MF
+Definition: Binding to a Type II interleukin-1 receptor.
+Synonym: IL-1 type II
+Synonym: interleukin-1, type II receptor ligand
+--------------------------------------
+GOID: GO:0018993
+Term: somatic sex determination
+Ontology: BP
+Definition: The determination of sex and sexual phenotypes in an
+    organism's soma.
+--------------------------------------
+GOID: GO:0003290
+Term: atrial septum secundum morphogenesis
+Ontology: BP
+Definition: The process in which anatomical structure of an atrial
+    septum secundum is generated and organized.
+--------------------------------------
+GOID: GO:0030595
+Term: leukocyte chemotaxis
+Ontology: BP
+Definition: The movement of a leukocyte in response to an external
+    stimulus.
+Synonym: immune cell chemotaxis
+Synonym: leucocyte chemotaxis
+--------------------------------------
+GOID: GO:0004601
+Term: peroxidase activity
+Ontology: MF
+Definition: Catalysis of the reaction: a donor + a peroxide = an
+    oxidized donor + 2 H2O.
+Synonym: GO:0016685
+Synonym: GO:0016686
+Synonym: GO:0016687
+Synonym: GO:0016693
+Synonym: peroxidase reaction
+Synonym: donor:hydrogen-peroxide oxidoreductase activity
+Synonym: MPO
+Synonym: oxyperoxidase activity
+Synonym: bacterial catalase-peroxidase activity
+Synonym: eosinophil peroxidase activity
+Synonym: extensin peroxidase
+Synonym: guaiacol peroxidase
+Synonym: heme peroxidase
+Synonym: horseradish peroxidase (HRP)
+Synonym: japanese radish peroxidase
+Synonym: lactoperoxidase activity
+Synonym: myeloperoxidase activity
+Synonym: protoheme peroxidase
+Synonym: pyrocatechol peroxidase
+Synonym: scopoletin peroxidase
+Synonym: secretory plant peroxidase activity
+Synonym: thiocyanate peroxidase
+Synonym: verdoperoxidase
+Secondary: GO:0016685
+Secondary: GO:0016686
+Secondary: GO:0016687
+Secondary: GO:0016693
+--------------------------------------
+GOID: GO:0005150
+Term: interleukin-1, type I receptor binding
+Ontology: MF
+Definition: Binding to a Type I interleukin-1 receptor.
+Synonym: IL-1 type I
+Synonym: interleukin-1, type I receptor ligand
+--------------------------------------
+GOID: GO:0004918
+Term: interleukin-8 receptor activity
+Ontology: MF
+Definition: Combining with interleukin-8 and transmitting the signal
+    from one side of the membrane to the other to initiate a change in
+    cell activity.
+Synonym: IL-8 receptor activity
+Synonym: IL-8R
+--------------------------------------
+GOID: GO:0038112
+Term: interleukin-8-mediated signaling pathway
+Ontology: BP
+Definition: The series of molecular signals initiated by interleukin-8
+    binding to its receptor on the surface of a cell, and ending with
+    the regulation of a downstream cellular process, e.g.
+    transcription.
+Synonym: IL-8-mediated signaling pathway
+Synonym: interleukin-8-mediated signalling pathway
+--------------------------------------
+GOID: GO:0016493
+Term: C-C chemokine receptor activity
+Ontology: MF
+Definition: Combining with a C-C chemokine and transmitting the signal
+    from one side of the membrane to the other to initiate a change in
+    cell activity. C-C chemokines do not have an amino acid between the
+    first two cysteines of the characteristic four-cysteine motif.
+--------------------------------------
+GOID: GO:0043903
+Term: regulation of biological process involved in symbiotic
+    interaction
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    symbiosis, an interaction between two organisms living together in
+    more or less intimate association.
+Synonym: regulation of symbiotic process
+Synonym: regulation of symbiosis, encompassing mutualism through
+    parasitism
+Synonym: regulation of interspecies interactions between organisms
+--------------------------------------
+GOID: GO:0016684
+Term: oxidoreductase activity, acting on peroxide as acceptor
+Ontology: MF
+Definition: Catalysis of an oxidation-reduction (redox) reaction in
+    which the peroxide group acts as a hydrogen or electron acceptor.
+--------------------------------------
+GOID: GO:0070950
+Term: regulation of neutrophil mediated killing of bacterium
+Ontology: BP
+Definition: Any process that modulates the rate, frequency or extent of
+    neutrophil mediated killing of a bacterium, the directed killing of
+    a bacterium by a neutrophil.
+--------------------------------------
+GOID: GO:0070951
+Term: regulation of neutrophil mediated killing of gram-negative
+    bacterium
+Ontology: BP
+Definition: Any process that modulates the rate, frequency or extent of
+    neutrophil mediated killing of a gram-negative bacterium, the
+    directed killing of a gram-negative bacterium by a neutrophil.
+--------------------------------------
+GOID: GO:0019957
+Term: C-C chemokine binding
+Ontology: MF
+Definition: Binding to a C-C chemokine; C-C chemokines do not have an
+    amino acid between the first two cysteines of the characteristic
+    four-cysteine motif.
+--------------------------------------
+GOID: GO:0018149
+Term: peptide cross-linking
+Ontology: BP
+Definition: The formation of a covalent cross-link between or within
+    protein chains.
+--------------------------------------
+GOID: GO:0097186
+Term: amelogenesis
+Ontology: BP
+Definition: The process whose specific outcome is the formation of
+    tooth enamel, occurring in two stages: secretory stage and
+    maturation stage.
+Synonym: enamel development
+--------------------------------------
+GOID: GO:0019865
+Term: immunoglobulin binding
+Ontology: MF
+Definition: Binding to an immunoglobulin.
+--------------------------------------
+GOID: GO:0001637
+Term: G protein-coupled chemoattractant receptor activity
+Ontology: MF
+Definition: Combining with a chemoattractant and transmitting the
+    signal across the membrane by activating an associated G-protein;
+    promotes the exchange of GDP for GTP on the alpha subunit of a
+    heterotrimeric G-protein complex.
+Synonym: G protein chemoattractant receptor activity
+Synonym: G-protein chemoattractant receptor activity
+Synonym: G-protein coupled chemoattractant receptor activity
+--------------------------------------
+GOID: GO:0004950
+Term: chemokine receptor activity
+Ontology: MF
+Definition: Combining with a chemokine, and transmitting the signal
+    from one side of the membrane to the other to initiate a change in
+    cell activity. Chemokines are a family of small chemotactic
+    cytokines; their name is derived from their ability to induce
+    directed chemotaxis in nearby responsive cells. All chemokines
+    possess a number of conserved cysteine residues involved in
+    intramolecular disulfide bond formation. Some chemokines are
+    considered pro-inflammatory and can be induced during an immune
+    response to recruit cells of the immune system to a site of
+    infection, while others are considered homeostatic and are involved
+    in controlling the migration of cells during normal processes of
+    tissue maintenance or development. Chemokines are found in all
+    vertebrates, some viruses and some bacteria.
+--------------------------------------
+GOID: GO:0045105
+Term: intermediate filament polymerization or depolymerization
+Ontology: BP
+Definition: Assembly or disassembly of intermediate filaments by the
+    addition or removal of component parts from a filament.
+--------------------------------------
+GOID: GO:0060528
+Term: secretory columnal luminar epithelial cell differentiation
+    involved in prostate glandular acinus development
+Ontology: BP
+Definition: The process in which a relatively unspecialized epithelial
+    cell acquires specialized features of a secretory columnal luminar
+    epithelial cell of the prostate.
+--------------------------------------
+GOID: GO:0008589
+Term: regulation of smoothened signaling pathway
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    smoothened signaling.
+Synonym: GO:0007226
+Synonym: GO:0043109
+Synonym: regulation of hedgehog signaling pathway
+Synonym: regulation of hh signaling pathway
+Synonym: regulation of smoothened signalling pathway
+Synonym: regulation of smoothened activity
+Synonym: regulation of smoothened by patched
+Synonym: regulation of smoothened receptor activity by patched
+Secondary: GO:0007226
+Secondary: GO:0043109
+--------------------------------------
+GOID: GO:0034988
+Term: Fc-gamma receptor I complex binding
+Ontology: MF
+Definition: Binding to one or more specific sites on the Fc-gamma
+    receptor I complex. The complex functions primarily as an
+    activating receptor for IgG.
+--------------------------------------
+GOID: GO:0019959
+Term: interleukin-8 binding
+Ontology: MF
+Definition: Binding to interleukin-8.
+Synonym: IL-8 binding
+--------------------------------------
+GOID: GO:0110021
+Term: cardiac muscle myoblast proliferation
+Ontology: BP
+Definition: The multiplication or reproduction of cardiac muscle
+    myoblasts, resulting in the expansion of a cardiac muscle myoblast
+    cell population. A cardiac myoblast is a precursor cell that has
+    been committed to a cardiac muscle cell fate but retains the
+    ability to divide and proliferate throughout life.
+--------------------------------------
+GOID: GO:0110022
+Term: regulation of cardiac muscle myoblast proliferation
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    cardiac muscle myoblast proliferation.
+--------------------------------------
+GOID: GO:0110024
+Term: positive regulation of cardiac muscle myoblast proliferation
+Ontology: BP
+Definition: Any process that activates or increases the frequency, rate
+    or extent of cardiac muscle myoblast proliferation.
+--------------------------------------
+GOID: GO:0002438
+Term: acute inflammatory response to antigenic stimulus
+Ontology: BP
+Definition: An acute inflammatory response to an antigenic stimulus. An
+    acute inflammatory response occurs within a matter of minutes or
+    hours, and either resolves within a few days or becomes a chronic
+    inflammatory response.
+--------------------------------------
+GOID: GO:0031210
+Term: phosphatidylcholine binding
+Ontology: MF
+Definition: Binding to a phosphatidylcholine, a glycophospholipid in
+    which a phosphatidyl group is esterified to the hydroxyl group of
+    choline.
+--------------------------------------
+GOID: GO:0035054
+Term: embryonic heart tube anterior/posterior pattern specification
+Ontology: BP
+Definition: The establishment, maintenance and elaboration of cell
+    differentiation that results in the anterior/posterior subdivision
+    of the embryonic heart tube. In Drosophila this results in
+    subdivision of the dorsal vessel into to the posterior heart proper
+    and the anterior aorta.
+--------------------------------------
+GOID: GO:0060743
+Term: epithelial cell maturation involved in prostate gland development
+Ontology: BP
+Definition: The developmental process, independent of morphogenetic
+    (shape) change, that is required for an epithelial cell of the
+    prostate gland to attain its fully functional state. An epithelial
+    cell is a cell usually found in a two-dimensional sheet with a free
+    surface.
+Synonym: prostate gland epithelial cell development
+--------------------------------------
+GOID: GO:0005152
+Term: interleukin-1 receptor antagonist activity
+Ontology: MF
+Definition: Blocks the binding of interleukin-1 to the interleukin-1
+    receptor complex.
+Synonym: IL-1ra
+--------------------------------------
+GOID: GO:0008150
+Term: biological_process
+Ontology: BP
+Definition: A biological process is the execution of a
+    genetically-encoded biological module or program. It consists of
+    all the steps required to achieve the specific biological objective
+    of the module. A biological process is accomplished by a particular
+    set of molecular functions carried out by specific gene products
+    (or macromolecular complexes), often in a highly regulated manner
+    and in a particular temporal sequence.
+Synonym: GO:0000004
+Synonym: GO:0007582
+Synonym: GO:0044699
+Synonym: biological process
+Synonym: physiological process
+Synonym: single organism process
+Synonym: single-organism process
+Secondary: GO:0000004
+Secondary: GO:0007582
+Secondary: GO:0044699
+--------------------------------------
+GOID: GO:0043133
+Term: hindgut contraction
+Ontology: BP
+Definition: A process in which force is generated within smooth muscle
+    tissue, resulting in a change in muscle geometry. This process
+    occurs in the hindgut. Force generation involves a chemo-mechanical
+    energy conversion step that is carried out by the actin/myosin
+    complex activity, which generates force through ATP hydrolysis. The
+    hindgut is the posterior part of the alimentary canal, including
+    the rectum, and the large intestine.
+--------------------------------------
+GOID: GO:0043134
+Term: regulation of hindgut contraction
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    muscle contraction of the hindgut, the posterior part of the
+    alimentary canal, including the rectum, and the large intestine.
+--------------------------------------
+GOID: GO:0005153
+Term: interleukin-8 receptor binding
+Ontology: MF
+Definition: Binding to an interleukin-8 receptor.
+Synonym: IL-8
+Synonym: interleukin-8 receptor ligand
+--------------------------------------
+GOID: GO:0098758
+Term: response to interleukin-8
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell or an organism (in terms of movement, secretion, enzyme
+    production, gene expression, etc.) as a result of an interleukin-8
+    stimulus.
+Synonym: response to IL-8
+--------------------------------------
+GOID: GO:0098759
+Term: cellular response to interleukin-8
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell (in terms of movement, secretion, enzyme production, gene
+    expression, etc.) as a result of an interleukin-8 stimulus.
+Synonym: cellular response to IL-8
+--------------------------------------
+GOID: GO:0002074
+Term: extraocular skeletal muscle development
+Ontology: BP
+Definition: The process whose specific outcome is the progression of
+    the extraocular skeletal muscle over time, from its formation to
+    the mature structure. The extraocular muscle is derived from
+    cranial mesoderm and controls eye movements. The muscle begins its
+    development with the differentiation of the muscle cells and ends
+    with the mature muscle. An example of this process is found in Mus
+    musculus.
+--------------------------------------
+GOID: GO:0019955
+Term: cytokine binding
+Ontology: MF
+Definition: Binding to a cytokine, any of a group of proteins that
+    function to control the survival, growth and differentiation of
+    tissues and cells, and which have autocrine and paracrine activity.
+Synonym: GO:0019965
+Synonym: IL binding
+Synonym: interleukin binding
+Secondary: GO:0019965
+--------------------------------------
+GOID: GO:0005185
+Term: neurohypophyseal hormone activity
+Ontology: MF
+Definition: The action characteristic of a neurohypophyseal hormone,
+    any of a family of structurally and functionally related
+    nonapeptides that are synthesized as part of a larger precursor
+    molecule comprising a signal peptide, the nonapeptide hormone, and
+    a neurophysin.
+Synonym: neurohypophysial hormone activity
+--------------------------------------
+GOID: GO:0003285
+Term: septum secundum development
+Ontology: BP
+Definition: The progression of the septum secundum over time, from its
+    initial formation to the mature structure.
+--------------------------------------
+GOID: GO:0031012
+Term: extracellular matrix
+Ontology: CC
+Definition: A structure lying external to one or more cells, which
+    provides structural support, biochemical or biomechanical cues for
+    cells or tissues.
+Synonym: GO:0005578
+Synonym: proteinaceous extracellular matrix
+Synonym: matrisome
+Secondary: GO:0005578
+--------------------------------------
+GOID: GO:0030312
+Term: external encapsulating structure
+Ontology: CC
+Definition: A structure that lies outside the plasma membrane and
+    surrounds the entire cell or cells. This does not include the
+    periplasmic space.
+--------------------------------------
+GOID: GO:0001791
+Term: IgM binding
+Ontology: MF
+Definition: Binding to an immunoglobulin of the IgM isotype.
+--------------------------------------
+GOID: GO:0070701
+Term: mucus layer
+Ontology: CC
+Definition: An extracellular region part that consists of a protective
+    layer of mucus secreted by epithelial cells lining tubular organs
+    of the body such as the colon or secreted into fluids such as
+    saliva. Mucus is a viscous slimy secretion consisting of mucins
+    (i.e. highly glycosylated mucin proteins) and various inorganic
+    salts dissolved in water, with suspended epithelial cells and
+    leukocytes.
+Synonym: mucous
+Synonym: mucous layer
+Synonym: mucus
+Synonym: extracellular proteinaceous gel
+--------------------------------------
+GOID: GO:0098992
+Term: neuronal dense core vesicle
+Ontology: CC
+Definition: A dense core vesicle (granule) that is part of a neuron.
+    These vesicles typically contain neuropeptides. They can be found
+    in all parts of neurons, including the soma, dendrites, axonal
+    swellings (varicosities) and synaptic terminals.
+--------------------------------------
+GOID: GO:0002437
+Term: inflammatory response to antigenic stimulus
+Ontology: BP
+Definition: An inflammatory response to an antigenic stimulus, which
+    can be include any number of T cell or B cell epitopes.
+--------------------------------------
+GOID: GO:0045925
+Term: positive regulation of female receptivity
+Ontology: BP
+Definition: Any process that activates or increases the receptiveness
+    of a female to male advances.
+Synonym: up regulation of female receptivity
+Synonym: up-regulation of female receptivity
+Synonym: upregulation of female receptivity
+Synonym: activation of female receptivity
+Synonym: stimulation of female receptivity
+--------------------------------------
+GOID: GO:0071621
+Term: granulocyte chemotaxis
+Ontology: BP
+Definition: The movement of a granulocyte in response to an external
+    stimulus.
+--------------------------------------
+GOID: GO:0002331
+Term: pre-B cell allelic exclusion
+Ontology: BP
+Definition: Expression of a single heavy chain allele during pre-B cell
+    differentiation.
+Synonym: pre-B lymphocyte allelic exclusion
+--------------------------------------
+GOID: GO:0098894
+Term: extrinsic component of presynaptic endocytic zone membrane
+Ontology: CC
+Definition: The component of the presynaptic endocytic zone membrane
+    consisting of gene products and protein complexes that are loosely
+    bound to one of its surfaces, but not integrated into the
+    hydrophobic region.
+--------------------------------------
+GOID: GO:0000254
+Term: C-4 methylsterol oxidase activity
+Ontology: MF
+Definition: Catalysis of the reaction:
+    4,4-dimethyl-5alpha-cholest-7-en-3beta-ol + 6 Fe(II)-[cytochrome
+    b5] + 5 H+ + 3 O2 =
+    4alpha-carboxy-4beta-methyl-5alpha-cholest-7-ene-3beta-ol + 6
+    Fe(III)-[cytochrome b5] + 4 H2O.
+Synonym: 4-methylsterol oxidase activity
+Synonym: methylsterol hydroxylase activity
+Synonym: methylsterol monooxygenase activity
+--------------------------------------
+GOID: GO:0021797
+Term: forebrain anterior/posterior pattern specification
+Ontology: BP
+Definition: The creation of specific areas of progenitor domains along
+    the anterior-posterior axis of the developing forebrain.
+Synonym: forebrain anterior-posterior pattern specification
+--------------------------------------
+GOID: GO:0048566
+Term: embryonic digestive tract development
+Ontology: BP
+Definition: The process whose specific outcome is the progression of
+    the gut over time, from its formation to the mature structure
+    during embryonic development. The gut is the region of the
+    digestive tract extending from the beginning of the intestines to
+    the anus.
+--------------------------------------
+GOID: GO:0048019
+Term: receptor antagonist activity
+Ontology: MF
+Definition: The activity of a gene product that interacts with a
+    receptor to decrease the ability of the receptor agonist to bind
+    and activate the receptor.
+Synonym: receptor ligand activity
+--------------------------------------
+GOID: GO:0140355
+Term: cargo receptor ligand activity
+Ontology: MF
+Definition: NA
+Synonym: cargo
+--------------------------------------
+GOID: GO:0050254
+Term: rhodopsin kinase activity
+Ontology: MF
+Definition: Catalysis of the reaction: ATP + rhodopsin = ADP +
+    phosphorhodopsin.
+Synonym: rhodopsin kinase (phosphorylating) activity
+Synonym: opsin kinase (phosphorylating) activity
+Synonym: opsin kinase activity
+Synonym: cone opsin kinase activity
+Synonym: GPCR kinase 1 activity
+--------------------------------------
+GOID: GO:1904340
+Term: positive regulation of dopaminergic neuron differentiation
+Ontology: BP
+Definition: NA
+Synonym: up regulation of dopaminergic neuron differentiation
+Synonym: up-regulation of dopaminergic neuron differentiation
+Synonym: upregulation of dopaminergic neuron differentiation
+Synonym: activation of dopaminergic neuron differentiation
+--------------------------------------
+GOID: GO:0002450
+Term: B cell antigen processing and presentation
+Ontology: BP
+Definition: The process in which a B cell expresses antigen (peptide or
+    lipid) on its cell surface in association with an MHC protein
+    complex.
+Synonym: B lymphocyte antigen processing and presentation
+Synonym: B-cell antigen processing and presentation
+Synonym: B-lymphocyte antigen processing and presentation
+--------------------------------------
+GOID: GO:0060741
+Term: prostate gland stromal morphogenesis
+Ontology: BP
+Definition: The process in which the prostate gland stroma is generated
+    and organized. The prostate gland stroma is made up of the
+    mesenchymal or fibroblast cells of the prostate gland.
+--------------------------------------
+GOID: GO:0021696
+Term: cerebellar cortex morphogenesis
+Ontology: BP
+Definition: The process in which the anatomical structure of the
+    cranial nerves are generated and organized. The cerebellar cortex
+    is a thin mantle of gray matter that covers the surface of each
+    cerebral hemisphere. It has a characteristic morphology with
+    convolutions (gyri) and crevices (sulci) that have specific
+    functions. Six layers of nerve cells and the nerve pathways that
+    connect them comprise the cerebellar cortex. Together, these
+    regions are responsible for the processes of conscious thought,
+    perception, emotion and memory as well as advanced motor function.
+--------------------------------------
+GOID: GO:0019956
+Term: chemokine binding
+Ontology: MF
+Definition: Binding to a chemokine. Chemokines are a family of small
+    chemotactic cytokines; their name is derived from their ability to
+    induce directed chemotaxis in nearby responsive cells. All
+    chemokines possess a number of conserved cysteine residues involved
+    in intramolecular disulfide bond formation. Some chemokines are
+    considered pro-inflammatory and can be induced during an immune
+    response to recruit cells of the immune system to a site of
+    infection, while others are considered homeostatic and are involved
+    in controlling the migration of cells during normal processes of
+    tissue maintenance or development. Chemokines are found in all
+    vertebrates, some viruses and some bacteria.
+--------------------------------------
+GOID: GO:0019862
+Term: IgA binding
+Ontology: MF
+Definition: Binding to an immunoglobulin of an IgA isotype.
+--------------------------------------
+GOID: GO:0071755
+Term: IgM B cell receptor complex
+Ontology: CC
+Definition: An IgM immunoglobulin complex that is present in the plasma
+    membrane of B cells and is composed of two identical immunoglobulin
+    heavy chains of the IgM isotype and two identical immunoglobulin
+    light chains and a signaling subunit, a heterodimer of the Ig-alpha
+    and Ig-beta proteins.
+Synonym: membrane-bound IgM
+Synonym: surface IgM
+--------------------------------------
+GOID: GO:0002125
+Term: maternal aggressive behavior
+Ontology: BP
+Definition: Aggressive behavior of a female to protect her offspring
+    from a threat.
+Synonym: maternal aggression
+--------------------------------------
+GOID: GO:0031893
+Term: vasopressin receptor binding
+Ontology: MF
+Definition: Binding to a vasopressin receptor.
+Synonym: vasopressin receptor ligand
+--------------------------------------
+GOID: GO:0031894
+Term: V1A vasopressin receptor binding
+Ontology: MF
+Definition: Binding to a V1A vasopressin receptor.
+Synonym: V1A vasopressin receptor ligand
+--------------------------------------
+GOID: GO:0002253
+Term: activation of immune response
+Ontology: BP
+Definition: Any process that initiates an immune response.
+--------------------------------------
+GOID: GO:0002764
+Term: immune response-regulating signaling pathway
+Ontology: BP
+Definition: The cascade of processes by which a signal interacts with a
+    receptor, causing a change in the level or activity of a second
+    messenger or other downstream target, and ultimately leading to the
+    activation, perpetuation, or inhibition of an immune response.
+Synonym: immune response-regulating signalling pathway
+--------------------------------------
+GOID: GO:0033686
+Term: positive regulation of luteinizing hormone secretion
+Ontology: BP
+Definition: Any process that activates or increases the frequency, rate
+    or extent of the regulated release of luteinizing hormone.
+Synonym: up regulation of luteinizing hormone secretion
+Synonym: up-regulation of luteinizing hormone secretion
+Synonym: upregulation of luteinizing hormone secretion
+Synonym: activation of luteinizing hormone secretion
+Synonym: stimulation of luteinizing hormone secretion
+--------------------------------------
+GOID: GO:0060406
+Term: positive regulation of penile erection
+Ontology: BP
+Definition: Any process that increases the rate, frequency or extent of
+    penile erection. Penile erection is the hardening, enlarging and
+    rising of the penis which often occurs in the sexually aroused male
+    and enables sexual intercourse. Achieved by increased inflow of
+    blood into the vessels of erectile tissue, and decreased outflow.
+--------------------------------------
+GOID: GO:0002329
+Term: pre-B cell differentiation
+Ontology: BP
+Definition: The process in which a precursor cell type acquires the
+    specialized features of a pre-B cell. Pre-B cells follow the pro-B
+    cell stage of immature B cell differentiation and undergo
+    rearrangement of heavy chain V, D, and J gene segments.
+Synonym: pre-B lymphocyte differentiation
+Synonym: pre-B cell development
+--------------------------------------
+GOID: GO:0046906
+Term: tetrapyrrole binding
+Ontology: MF
+Definition: Binding to a tetrapyrrole, a compound containing four
+    pyrrole nuclei variously substituted and linked to each other
+    through carbons at the alpha position.
+Synonym: porphyrin binding
+--------------------------------------
+GOID: GO:0002414
+Term: immunoglobulin transcytosis in epithelial cells
+Ontology: BP
+Definition: The process of transporting immunoglobulin, via
+    transcytosis, from one side of an epithelial cell to the other.
+--------------------------------------
+GOID: GO:0001555
+Term: oocyte growth
+Ontology: BP
+Definition: The developmental growth process in which an oocyte
+    irreversibly increases in size over time by accretion and
+    biosynthetic production of matter similar to that already present.
+--------------------------------------
+GOID: GO:0010701
+Term: positive regulation of norepinephrine secretion
+Ontology: BP
+Definition: Any process that increases the frequency, rate or extent of
+    the regulated release of norepinephrine.
+--------------------------------------
+GOID: GO:0003284
+Term: septum primum development
+Ontology: BP
+Definition: The progression of the septum primum over time, from its
+    formation to the mature structure.
+--------------------------------------
+GOID: GO:0003289
+Term: atrial septum primum morphogenesis
+Ontology: BP
+Definition: The process in which anatomical structure of an atrial
+    septum primum is generated and organized.
+--------------------------------------
+GOID: GO:0060354
+Term: negative regulation of cell adhesion molecule production
+Ontology: BP
+Definition: Any process that decreases the rate, frequency or extent of
+    cell adhesion molecule production. Cell adhesion molecule
+    production is the appearance of a cell adhesion molecule as a
+    result of its biosynthesis or a decrease in its catabolism.
+--------------------------------------
+GOID: GO:0140447
+Term: cytokine precursor processing
+Ontology: BP
+Definition: NA
+Synonym: interleukin maturation
+Synonym: interleukin processing
+--------------------------------------
+GOID: GO:0070175
+Term: positive regulation of enamel mineralization
+Ontology: BP
+Definition: Any process that activates or increases the frequency, rate
+    or extent of enamel mineralization, the deposition of calcium salts
+    in tooth enamel.
+--------------------------------------
+GOID: GO:0016068
+Term: type I hypersensitivity
+Ontology: BP
+Definition: An inflammatory response driven by antigen recognition by
+    antibodies bound to Fc receptors on mast cells or basophils,
+    occurring within minutes after exposure of a sensitized individual
+    to the antigen, and leading to the release of a variety of
+    inflammatory mediators such as histamines.
+Synonym: immediate hypersensitivity response
+--------------------------------------
+GOID: GO:0050997
+Term: quaternary ammonium group binding
+Ontology: MF
+Definition: Binding to a quaternary ammonium group, including glycine
+    betaine, choline, carnitine and proline. A quaternary ammonium
+    group is any compound that can be regarded as derived from ammonium
+    hydroxide or an ammonium salt by replacement of all four hydrogen
+    atoms of the NH4+ ion by organic groups.
+Synonym: quaternary amine binding
+--------------------------------------
+GOID: GO:0035811
+Term: negative regulation of urine volume
+Ontology: BP
+Definition: Any process that decreases the amount of urine excreted
+    from the body over a unit of time.
+Synonym: decrease in urine flow
+Synonym: reduction of urinary volume
+Synonym: antidiuresis
+--------------------------------------
+GOID: GO:0070949
+Term: regulation of neutrophil mediated killing of symbiont cell
+Ontology: BP
+Definition: Any process that modulates the rate, frequency or extent of
+    neutrophil mediated killing of a symbiont cell, the directed
+    killing of a symbiont target cell by a neutrophil.
+--------------------------------------
+GOID: GO:0042379
+Term: chemokine receptor binding
+Ontology: MF
+Definition: Binding to a chemokine receptor.
+Synonym: chemokine receptor ligand
+--------------------------------------
+GOID: GO:0001515
+Term: opioid peptide activity
+Ontology: MF
+Definition: Naturally occurring peptide that is an opioid (any
+    non-alkaloid having an opiate-like effect that can be reversed by
+    naloxone or other recognized morphine antagonist). These include
+    Leu- and Met-enkephalin, dynorphin and neoendorphin, alpha, beta,
+    gamma and delta endorphins formed from beta-lipotropin, various
+    pronase-resistant peptides such as beta casamorphin, and other
+    peptides whose opiate-like action seems to be indirect.
+--------------------------------------
+GOID: GO:0042542
+Term: response to hydrogen peroxide
+Ontology: BP
+Definition: Any process that results in a change in state or activity
+    of a cell or an organism (in terms of movement, secretion, enzyme
+    production, gene expression, etc.) as a result of a hydrogen
+    peroxide (H2O2) stimulus.
+--------------------------------------
+GOID: GO:1903135
+Term: cupric ion binding
+Ontology: MF
+Definition: NA
+Synonym: copper(2+)binding
+Synonym: Cu(2+) binding
+Synonym: Cu(II) binding
+--------------------------------------
+GOID: GO:0061026
+Term: cardiac muscle tissue regeneration
+Ontology: BP
+Definition: The regrowth of cardiac muscle tissue to repair injured or
+    damaged muscle fibers in the postnatal stage.
+--------------------------------------
+GOID: GO:0021587
+Term: cerebellum morphogenesis
+Ontology: BP
+Definition: The process in which the anatomical structure of the
+    cerebellum is generated and organized. The cerebellum is the
+    portion of the brain in the back of the head between the cerebrum
+    and the pons. The cerebellum controls balance for walking and
+    standing, modulates the force and range of movement and is involved
+    in the learning of motor skills.
+--------------------------------------
+GOID: GO:0030280
+Term: structural constituent of skin epidermis
+Ontology: MF
+Definition: The action of a molecule that contributes to the structural
+    integrity of an epidermal cutaneous structure.
+Synonym: structural constituent of epidermis
+--------------------------------------
+GOID: GO:0001537
+Term: N-acetylgalactosamine 4-O-sulfotransferase activity
+Ontology: MF
+Definition: Catalysis of the reaction: 3'-phosphoadenosine
+    5'-phosphosulfate + N-acetyl-D-galactosamine = adenosine
+    3',5'-bisphosphate + N-acetyl-D-galactosamine 4-sulfate.
+Synonym: N-acetylgalactosamine 4-O-sulphotransferase activity
+--------------------------------------
+GOID: GO:0021902
+Term: commitment of neuronal cell to specific neuron type in forebrain
+Ontology: BP
+Definition: The commitment of neuronal precursor cells to become
+    specialized types of neurons in the forebrain.
+--------------------------------------
+GOID: GO:0006730
+Term: one-carbon metabolic process
+Ontology: BP
+Definition: The chemical reactions and pathways involving the transfer
+    of one-carbon units in various oxidation states.
+Synonym: GO:0019753
+Synonym: GO:0019754
+Synonym: one carbon metabolic process
+Synonym: one carbon metabolism
+Synonym: one-carbon metabolism
+Synonym: one-carbon transfer metabolic process
+Synonym: one-carbon transfer metabolism
+Secondary: GO:0019753
+Secondary: GO:0019754
+--------------------------------------
+GOID: GO:0030510
+Term: regulation of BMP signaling pathway
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    the activity of any BMP receptor signaling pathway.
+Synonym: GO:0090097
+Synonym: regulation of BMP signalling pathway
+Synonym: regulation of bone morphogenetic protein signaling pathway
+Synonym: regulation of bone morphogenetic protein signalling pathway
+Synonym: regulation of BMP receptor signaling pathway
+Synonym: regulation of decapentaplegic receptor signaling pathway
+Synonym: regulation of decapentaplegic receptor signalling pathway
+Synonym: regulation of decapentaplegic signaling pathway
+Secondary: GO:0090097
+--------------------------------------
+GOID: GO:0042713
+Term: sperm ejaculation
+Ontology: BP
+Definition: The expulsion of seminal fluid, thick white fluid
+    containing spermatozoa, from the male genital tract.
+--------------------------------------
+GOID: GO:0045347
+Term: negative regulation of MHC class II biosynthetic process
+Ontology: BP
+Definition: Any process that stops, prevents, or reduces the frequency,
+    rate or extent of the chemical reactions and pathways resulting in
+    the formation of MHC class II.
+Synonym: down regulation of MHC class II biosynthetic process
+Synonym: down-regulation of MHC class II biosynthetic process
+Synonym: downregulation of MHC class II biosynthetic process
+Synonym: negative regulation of major histocompatibility complex class
+    II biosynthesis
+Synonym: negative regulation of major histocompatibility complex class
+    II biosynthetic process
+Synonym: negative regulation of MHC class II anabolism
+Synonym: negative regulation of MHC class II biosynthesis
+Synonym: negative regulation of MHC class II formation
+Synonym: negative regulation of MHC class II synthesis
+Synonym: inhibition of MHC class II biosynthetic process
+--------------------------------------
+GOID: GO:0004222
+Term: metalloendopeptidase activity
+Ontology: MF
+Definition: Catalysis of the hydrolysis of internal, alpha-peptide
+    bonds in a polypeptide chain by a mechanism in which water acts as
+    a nucleophile, one or two metal ions hold the water molecule in
+    place, and charged amino acid side chains are ligands for the metal
+    ions.
+Synonym: metalloendoprotease activity
+Synonym: metalloendoproteinase activity
+--------------------------------------
+GOID: GO:0051525
+Term: NFAT protein binding
+Ontology: MF
+Definition: Binding to NFAT (nuclear factor of activated T cells)
+    proteins, a family of transcription factors. NFAT proteins have
+    crucial roles in the development and function of the immune system.
+Synonym: GO:0051526
+Synonym: GO:0051527
+Synonym: GO:0051528
+Synonym: GO:0051529
+Synonym: GO:0051530
+Synonym: NFAT binding
+Synonym: nuclear factor of activated T cell protein binding
+Synonym: NFAT1 protein binding
+Synonym: NFAT2 protein binding
+Synonym: NFAT3 protein binding
+Synonym: NFAT4 protein binding
+Synonym: NFAT5 protein binding
+Synonym: NFATc binding
+Synonym: NFATc1 binding
+Synonym: NFATc2 binding
+Synonym: NFATc3 binding
+Synonym: NFATc4 binding
+Synonym: NFATp binding
+Synonym: NFATx binding
+Synonym: non-calcium-regulated NFAT protein binding
+Secondary: GO:0051526
+Secondary: GO:0051527
+Secondary: GO:0051528
+Secondary: GO:0051529
+Secondary: GO:0051530
+--------------------------------------
+GOID: GO:0021853
+Term: cerebral cortex GABAergic interneuron migration
+Ontology: BP
+Definition: The migration of GABAergic interneuron precursors from the
+    subpallium to the cerebral cortex.
+--------------------------------------
+GOID: GO:0005184
+Term: neuropeptide hormone activity
+Ontology: MF
+Definition: The action characteristic of a neuropeptide hormone, any
+    peptide hormone that acts in the central nervous system. A
+    neuropeptide is any of several types of molecules found in brain
+    tissue, composed of short chains of amino acids; they include
+    endorphins, enkephalins, vasopressin, and others. They are often
+    localized in axon terminals at synapses and are classified as
+    putative neurotransmitters, although some are also hormones.
+Synonym: neurohormone
+--------------------------------------
+GOID: GO:0019064
+Term: fusion of virus membrane with host plasma membrane
+Ontology: BP
+Definition: Fusion of a viral membrane with the host cell membrane
+    during viral entry. Results in release of the virion contents into
+    the cytoplasm.
+Synonym: GO:0075706
+Synonym: viral envelope fusion with host cell membrane
+Synonym: viral envelope fusion with host membrane
+Synonym: viral envelope fusion with host plasma membrane
+Synonym: viral entry into host cell via membrane fusion with the plasma
+    membrane
+Synonym: viral-cell fusion molecule activity
+Synonym: viral envelope fusion
+Synonym: viral penetration via membrane fusion
+Secondary: GO:0075706
+--------------------------------------
+GOID: GO:0039663
+Term: membrane fusion involved in viral entry into host cell
+Ontology: BP
+Definition: Merging of the virion membrane and a host membrane (host
+    plasma membrane or host organelle membrane) that is involved in the
+    uptake of a virus into a host cell.
+Synonym: fusion of virus membrane with host membrane
+Synonym: fusion of virus membrane with host membrane during viral entry
+Synonym: viral entry into host cell via membrane fusion
+--------------------------------------
+GOID: GO:0140104
+Term: molecular carrier activity
+Ontology: MF
+Definition: NA
+--------------------------------------
+GOID: GO:0031045
+Term: dense core granule
+Ontology: CC
+Definition: Electron-dense organelle with a granular internal matrix;
+    contains proteins destined to be secreted.
+Synonym: dense core vesicle
+--------------------------------------
+GOID: GO:0006898
+Term: receptor-mediated endocytosis
+Ontology: BP
+Definition: An endocytosis process in which cell surface receptors
+    ensure specificity of transport. A specific receptor on the cell
+    surface binds tightly to the extracellular macromolecule (the
+    ligand) that it recognizes; the plasma-membrane region containing
+    the receptor-ligand complex then undergoes endocytosis, forming a
+    transport vesicle containing the receptor-ligand complex and
+    excluding most other plasma-membrane proteins. Receptor-mediated
+    endocytosis generally occurs via clathrin-coated pits and vesicles.
+Synonym: receptor mediated endocytosis
+--------------------------------------
+GOID: GO:0097530
+Term: granulocyte migration
+Ontology: BP
+Definition: The movement of a granulocyte within or between different
+    tissues and organs of the body.
+--------------------------------------
+GOID: GO:0046880
+Term: regulation of follicle-stimulating hormone secretion
+Ontology: BP
+Definition: Any process that modulates the frequency, rate or extent of
+    the regulated release of follicle-stimulating hormone.
+Synonym: regulation of follicle stimulating hormone secretion
+Synonym: regulation of FSH secretion
+--------------------------------------
+GOID: GO:0046881
+Term: positive regulation of follicle-stimulating hormone secretion
+Ontology: BP
+Definition: Any process that activates or increases the frequency, rate
+    or extent of the regulated release of follicle-stimulating hormone.
+Synonym: positive regulation of follicle stimulating hormone secretion
+Synonym: up regulation of follicle-stimulating hormone secretion
+Synonym: up-regulation of follicle-stimulating hormone secretion
+Synonym: upregulation of follicle-stimulating hormone secretion
+Synonym: activation of follicle-stimulating hormone secretion
+Synonym: stimulation of follicle-stimulating hormone secretion
+--------------------------------------
+GOID: GO:0021575
+Term: hindbrain morphogenesis
+Ontology: BP
+Definition: The process in which the anatomical structure of the
+    hindbrain is generated and organized. The hindbrain is the region
+    consisting of the medulla, pons and cerebellum. Areas of the
+    hindbrain control motor and autonomic functions.
+Synonym: rhombencephalon morphogenesis
+--------------------------------------
+GOID: GO:0051873
+Term: killing by host of symbiont cells
+Ontology: BP
+Definition: Any process mediated by an organism that results in the
+    death of cells in the symbiont organism. The symbiont is defined as
+    the smaller of the organisms involved in a symbiotic interaction.
+Synonym: GO:0051852
+Synonym: disruption by host of symbiont cells
+Secondary: GO:0051852
+--------------------------------------
+GOID: GO:0016209
+Term: antioxidant activity
+Ontology: MF
+Definition: Inhibition of the reactions brought about by dioxygen (O2)
+    or peroxides. Usually the antioxidant is effective because it can
+    itself be more easily oxidized than the substance protected. The
+    term is often applied to components that can trap free radicals,
+    thereby breaking the chain reaction that normally leads to
+    extensive biological damage.
+--------------------------------------
+GOID: GO:0160041
+Term: neuropeptide activity
+Ontology: MF
+Definition: NA
+--------------------------------------
+GOID: GO:0019958
+Term: C-X-C chemokine binding
+Ontology: MF
+Definition: Binding to a C-X-C chemokine; C-X-C chemokines have a
+    single amino acid between the first two cysteines of the
+    characteristic four cysteine motif.
+--------------------------------------
+GOID: GO:0060405
+Term: regulation of penile erection
+Ontology: BP
+Definition: Any process that modulates the rate, frequency or extent of
+    penile erection. Penile erection is the hardening, enlarging and
+    rising of the penis which often occurs in the sexually aroused male
+    and enables sexual intercourse. Achieved by increased inflow of
+    blood into the vessels of erectile tissue, and decreased outflow.
+--------------------------------------
+GOID: GO:0007204
+Term: positive regulation of cytosolic calcium ion concentration
+Ontology: BP
+Definition: Any process that increases the concentration of calcium
+    ions in the cytosol.
+Synonym: cytosolic calcium ion concentration elevation
+Synonym: elevation of calcium ion concentration in cytosol
+Synonym: elevation of cytosolic calcium ion concentration
+Synonym: cytoplasmic calcium ion concentration elevation
+Synonym: elevation of calcium ion concentration in cytoplasm
+Synonym: elevation of cytoplasmic calcium ion concentration
+--------------------------------------
+GOID: GO:0008201
+Term: heparin binding
+Ontology: MF
+Definition: Binding to heparin, a member of a group of
+    glycosaminoglycans found mainly as an intracellular component of
+    mast cells and which consist predominantly of alternating
+    alpha-(1->4)-linked D-galactose and
+    N-acetyl-D-glucosamine-6-sulfate residues.
+Synonym: heparan sulfate binding
+--------------------------------------
+GOID: GO:0098754
+Term: detoxification
+Ontology: BP
+Definition: Any process that reduces or removes the toxicity of a toxic
+    substance. These may include transport of the toxic substance away
+    from sensitive areas and to compartments or complexes whose purpose
+    is sequestration of the toxic substance.
+--------------------------------------
+GOID: GO:0045730
+Term: respiratory burst
+Ontology: BP
+Definition: A phase of elevated metabolic activity, during which oxygen
+    consumption increases; this leads to the production, by an NADH
+    dependent system, of hydrogen peroxide (H2O2), superoxide anions
+    and hydroxyl radicals.
+Synonym: metabolic burst
+Synonym: oxidative burst
+--------------------------------------
+GOID: GO:0035635
+Term: entry of bacterium into host cell
+Ontology: BP
+Definition: The process in which a bacterium enters a host cell. The
+    host is defined as the larger of the organisms involved in a
+    symbiotic interaction.
+Synonym: bacterial entry into host cell
+Synonym: invasion of bacteria into host cell
+--------------------------------------
+GOID: GO:2000535
+Term: regulation of entry of bacterium into host cell
+Ontology: BP
+Definition: NA
+Synonym: regulation of bacterial entry into host cell
+Synonym: regulation of invasion of bacteria into host cell
+--------------------------------------
+GOID: GO:0014832
+Term: urinary bladder smooth muscle contraction
+Ontology: BP
+Definition: A process in which force is generated within smooth muscle
+    tissue, resulting in a change in muscle geometry. This process
+    occurs in the urinary bladder. Force generation involves a
+    chemo-mechanical energy conversion step that is carried out by the
+    actin/myosin complex activity, which generates force through ATP
+    hydrolysis. The urinary bladder is a musculomembranous sac along
+    the urinary tract.
+--------------------------------------
+GOID: GO:0008628
+Term: hormone-mediated apoptotic signaling pathway
+Ontology: BP
+Definition: The series of molecular signals mediated by the detection
+    of a hormone, and which triggers the apoptotic signaling pathway in
+    a cell. The pathway starts with reception of a hormone signal, and
+    ends when the execution phase of apoptosis is triggered.
+Synonym: apoptotic signaling pathway in response to hormone
+Synonym: induction of apoptosis by hormones
+--------------------------------------
+GOID: GO:0030574
+Term: collagen catabolic process
+Ontology: BP
+Definition: The proteolytic chemical reactions and pathways resulting
+    in the breakdown of collagen in the extracellular matrix, usually
+    carried out by proteases secreted by nearby cells.
+Synonym: collagen breakdown
+Synonym: collagen catabolism
+Synonym: collagen degradation
+--------------------------------------
+GOID: GO:0043084
+Term: penile erection
+Ontology: BP
+Definition: The hardening, enlarging and rising of the penis which
+    often occurs in the sexually aroused male and enables sexual
+    intercourse. Achieved by increased inflow of blood into the vessels
+    of erectile tissue, and decreased outflow.
+--------------------------------------
+GOID: GO:0048248
+Term: CXCR3 chemokine receptor binding
+Ontology: MF
+Definition: Binding to a CXCR3 chemokine receptor.
+--------------------------------------
+GOID: GO:0060326
+Term: cell chemotaxis
+Ontology: BP
+Definition: The directed movement of a motile cell guided by a specific
+    chemical concentration gradient. Movement may be towards a higher
+    concentration (positive chemotaxis) or towards a lower
+    concentration (negative chemotaxis).
+--------------------------------------
+GOID: GO:0030547
+Term: signaling receptor inhibitor activity
+Ontology: MF
+Definition: Binds to and modulates the activity of a signaling
+    receptor.
+Synonym: receptor inhibitor activity
+--------------------------------------
+GOID: GO:0001999
+Term: renal response to blood flow involved in circulatory
+    renin-angiotensin regulation of systemic arterial blood pressure
+Ontology: BP
+Definition: The physiological response of the kidneys to a decrease in
+    blood flow.
+Synonym: renal response to blood flow during renin-angiotensin control
+    of blood pressure
+--------------------------------------
+GOID: GO:0002001
+Term: renin secretion into blood stream
+Ontology: BP
+Definition: The regulated release of renin into the blood stream by
+    juxtoglomerular cells.
+Synonym: renin release into blood stream
+--------------------------------------
