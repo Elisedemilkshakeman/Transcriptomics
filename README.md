@@ -32,7 +32,7 @@ Na het uitvoeren van een KEGG analyse op de antigeen verwerking en presentatie, 
   <img src="Resultaten/kegg antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
   <p>Figuur 1: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
   </p>
-Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8 en Natural Killer (NK) cellen donker rode vakken en PA28 rood en groene vakken. Aan het begin van het pad is al vermeerderde expressie waar te nemen, zoals bij het endoplasmatisch reticulum (BiP, CANX, MHCI) en het proteosoom (IFNy en TNFa), waarbij de expressie al hoger is dan in gezonde individuen. Ook in het MHCII pad is verhoogde expressie weergegeven, vooral van het MCHII gen.
+Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8 en Natural Killer (NK) cellen vergrootte expressie. Aan het begin van het pad is al vermeerderde expressie waar te nemen, zoals bij het endoplasmatisch reticulum (BiP, CANX, MHCI) en het proteosoom (IFNy en TNFa), waarbij de expressie al hoger is dan in gezonde individuen. Ook in het MHCII pad is verhoogde expressie weergegeven, vooral van het MCHII gen.
 
 
 ## Conclusie
