@@ -23,12 +23,20 @@ Reumatoide artritis (RA) is een chronische gewrichtsziekte, wat kraakbeen en bot
 
 ## Methode
 
-pracht methode
+Om te bepalen welke genen veranderd tot expressie komen in patiënten met RA, moesten er analyses uitgevoerd worden in Rstudio. Hiervoor moest het humane genoom (GRCh38.114) gedownload worden en geïndexeerd (package: Rsubread – 2.20.0). Daarna werden de reads gemapt met dit genoom, hierbij werden BAM-bestanden gemaakt voor elk monster [(Data)](Data/). Hierin wordt weergegeven welke reads gemapt zijn, waar op het genoom ze gemapt zijn en wordt de kwaliteit en mismatches weergegeven (package: Rsamtools – 2.22.0). Om vervolgens de countmatrix uit te voeren, werd een GTF bestand gedownload van het humane genoom. Hiermee werd de countmatrix uitgevoerd, waarbij er bepaald wordt hoeveel reads er op elk gen valt. (Packages: readr – 2.1.5 , dplyr – 1.1.4). Hier werd de matrix met tellingen uitgehaald, waarmee een behandelingstabel werd gemaakt. Met deze tabel en de countmatrix werd een DESeqDataSet gemaakt (package: DESeq2 – 1.46.0), dit werd gesorteerd op opvallende genen, wat gevisualiseerd werd met een Volcano Plot (package: EnhancedVolcano – 1.24.0). Vervolgens werd er een GO-analyse uitgevoerd om betrokken biologische processen te bepalen, waarbij de top 15 is gevisualiseerd (packages: goseq – 1.58.0, geneLenDataBase – 1.42.0, org.Dm.eg.db – 3.20.0, GO.db – 3.20.0, ggplot2 – 3.5.2, tidyverse – 2.0.0). Daarna is er een KEGG analyse gebruikt om genexpressie betrokken bij antigeen verwerking en presentatie te analyseren (package: KEGGREST – 1.46.0).
 
 ## Resultaten
 
-WWOOOOOWWWW
+Na het uitvoeren van een KEGG analyse op de antigeen verwerking en presentatie, is de verandering in expressie binnen deze route bepaald, zoals weergegeven in figuur 1.
+<p align="center">
+  <img src="Resultaten/kegg antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
+  <p>Figuur 1: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
+  </p>
+Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8 en Natural Killer (NK) cellen donker rode vakken en PA28 rood en groene vakken. Aan het begin van het pad is al vermeerderde expressie waar te nemen, zoals bij het endoplasmatisch reticulum (BiP, CANX, MHCI) en het proteosoom (IFNy en TNFa), waarbij de expressie al hoger is dan in gezonde individuen. Ook in het MHCII pad is verhoogde expressie weergegeven, vooral van het MCHII gen.
+
 
 ## Conclusie
 
-dit is het
+Na de KEGG analyse, bleken CD8 en NK cellen een hogere expressie te hebben bij patiënten met RA (figuur 1). Dit leidt terug tot genen zoals BiP, CANX en MHCI in het endoplasmatisch reticulum en IFNy en TNFa expressie bij het immunoproteosoom. Al deze genen zijn betrokken bij het produceren, transporteren of onderhouden van immununcellen. Zo is MHCI coderend voor eiwitten die het mogelijk maken om lichaamseigen van lichaamsvreemd te onderscheiden, en speelt TNFa een belangrijke rol in het activeren van een immuunrespons. Omdat alle eerder genoemde genen een belangrijke rol spelen in het immuunsysteem, kan overexpressie van deze genen leiden tot overmatige ontstekingen en auto-immuunziekten, wat overeenkomt met het ziektebeeld van Reumatoïde Artritis. Daarnaast werd ook overmatige MHCII expressie waargenomen, wat betrokken is bij binding van antigenen en CD4 T-cellen, dit wordt ook vaak geassocieerd met auto-immuunziekten.
+
+Patiënten met Reumatoïde Artritis lijken dus zowel in het MHCI als het MHCII pad verhoogde expressie van genen te hebben, wat leidt tot de overmatige ontstekingen.
