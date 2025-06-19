@@ -27,13 +27,23 @@ Om te bepalen welke genen veranderd tot expressie komen in patiënten met RA, mo
 
 ## Resultaten
 
-Na het uitvoeren van een KEGG analyse op de antigeen verwerking en presentatie, is de verandering in expressie binnen deze route bepaald, zoals weergegeven in figuur 1.
+Aan de hand van de count matrix is er een volcano plot gemaakt, hier zijn er een groot aantal genen die verhoogde expressie vertonen, zoals weergegeven in figuur 1.
+<p align="center">
+  <img src="Resultaten/VolcanoplotProject2.png" alt="Volcano plot" width="250"/>
+  <p>Figuur 1: Volcano plot waarbij de log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -log10P aangeeft hoe zeker de log2FoldChange is.</p>
+  </p>
+In de volcano plot is weerggegeven in hoeverre genen veranderde genexpressie hebben, waarbij de Log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -Log10P aangeeft hoe zeker de Log2FoldChange is.
+
+Met de GO-analyse is bepaald welk biologische pad geanalyseerd kan worden met de KEGG-analyse, zoals weergegeven in figuur 2.
+<p align="center">
+  <img src="Resultaten/Go analyse.png" alt="KEGG analyse" width="350"/>
+  <p>Figuur 2: Go analyse waarbij 15 biologische paden zijn weergegeven.</p>  
+Aan de hand van deze Go-analyse, is een KEGG analyse uitgevoerd op de antigeen verwerking en presentatie, is de verandering in expressie binnen deze route bepaald, zoals weergegeven in figuur 1.
 <p align="center">
   <img src="Resultaten/kegg antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
-  <p>Figuur 1: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
+  <p>Figuur 3: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
   </p>
-De verhoogde expressie van een groot aantal genen is ook waar te nemen in de volcano plot.
-Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8 en Natural Killer (NK) cellen vergrootte expressie. Aan het begin van het pad is al vermeerderde expressie waar te nemen, zoals bij het endoplasmatisch reticulum (BiP, CANX, MHCI) en het proteosoom (IFNy en TNFa), waarbij de expressie al hoger is dan in gezonde individuen. Ook in het MHCII pad is verhoogde expressie weergegeven, vooral van het MCHII gen.
+Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8, Natural Killer (NK) cellen en het MCHII pad vergrootte expressie. 
 
 
 ## Conclusie
