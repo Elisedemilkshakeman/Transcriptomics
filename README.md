@@ -40,14 +40,14 @@ Met de GO-analyse is bepaald welk biologische pad geanalyseerd kan worden met de
   <p>Figuur 2: Go analyse waarbij 15 biologische paden zijn weergegeven.</p>  
 Aan de hand van deze Go-analyse, is een KEGG analyse uitgevoerd op de antigeen verwerking en presentatie, is de verandering in expressie binnen deze route bepaald, zoals weergegeven in figuur 1.
 <p align="center">
-  <img src="Resultaten/kegg analyse antigen processing and presentation.png" alt="KEGG analyse" width="250"/>
+  <img src="Resultaten/kegg analyse antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
   <p>Figuur 3: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
   </p>
-Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8, Natural Killer (NK) cellen en het MCHII pad vergrootte expressie. 
+Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8, Natural Killer (NK) cellen en het MHCII pad vergrootte expressie. 
 
 
 ## Conclusie
 
-Na de KEGG analyse, bleken CD8 en NK cellen een hogere expressie te hebben bij patiënten met RA (figuur 1). Dit leidt terug tot genen zoals BiP, CANX en MHCI in het endoplasmatisch reticulum en IFNy en TNFa expressie bij het immunoproteosoom. Al deze genen zijn betrokken bij het produceren, transporteren of onderhouden van immununcellen. Zo is MHCI coderend voor eiwitten die het mogelijk maken om lichaamseigen van lichaamsvreemd te onderscheiden [(bron)](Bronnen/MHCI.pdf), en speelt TNFa een belangrijke rol in het activeren van een immuunrespons. Omdat alle eerder genoemde genen een belangrijke rol spelen in het immuunsysteem, kan overexpressie van deze genen leiden tot overmatige ontstekingen en auto-immuunziekten, wat overeenkomt met het ziektebeeld van Reumatoïde Artritis. Daarnaast werd ook overmatige MHCII expressie waargenomen, wat betrokken is bij binding van antigenen en CD4 T-cellen, dit wordt ook vaak geassocieerd met auto-immuunziekten.
+Na de KEGG analyse, bleken CD8 en NK cellen een hogere expressie te hebben bij patiënten met RA (figuur 1). Dit leidt terug tot genen zoals MHCI (verlaagde expressie) in het endoplasmatisch reticulum en IFNy (verhoogde expressie) bij het immunoproteosoom. Al deze genen zijn betrokken bij het produceren, transporteren of onderhouden van immununcellen. Zo is MHCI coderend voor eiwitten die het mogelijk maken om lichaamseigen van lichaamsvreemd te onderscheiden [(bron)](Bronnen/MHCI.pdf), en speelt TNFa een belangrijke rol in het activeren van een immuunrespons. Omdat alle eerder genoemde genen een belangrijke rol spelen in het immuunsysteem, kan over-/onderexpressie van deze genen leiden tot overmatige ontstekingen en auto-immuunziekten, wat overeenkomt met het ziektebeeld van Reumatoïde Artritis. Daarnaast werd ook overmatige MHCII expressie waargenomen, wat betrokken is bij binding van antigenen en CD4 T-cellen, dit wordt ook vaak geassocieerd met auto-immuunziekten.
 
-Patiënten met Reumatoïde Artritis lijken dus zowel in het MHCI als het MHCII pad verhoogde expressie van genen te hebben, wat leidt tot de overmatige ontstekingen.
+Patiënten met Reumatoïde Artritis lijken dus onderexpressie te hebben van MHCI en overexpressie van MHCII en IFNy, wat leidt tot de overmatige ontstekingen en auto-immuunresponses.
