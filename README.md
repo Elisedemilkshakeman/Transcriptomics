@@ -40,7 +40,7 @@ Met de GO-analyse is bepaald welk biologische pad geanalyseerd kan worden met de
   <p>Figuur 2: Go analyse waarbij 15 biologische paden zijn weergegeven.</p>  
 Aan de hand van deze Go-analyse, is een KEGG analyse uitgevoerd op de antigeen verwerking en presentatie, is de verandering in expressie binnen deze route bepaald, zoals weergegeven in figuur 1.
 <p align="center">
-  <img src="Resultaten/kegg antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
+  <img src="Resultaten/kegg analyse antigen processing and presentation.png" alt="KEGG analyse" width="250"/>
   <p>Figuur 3: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
   </p>
 Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8, Natural Killer (NK) cellen en het MCHII pad vergrootte expressie. 
