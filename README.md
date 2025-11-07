@@ -23,6 +23,10 @@ Reumatoide artritis (RA) is een chronische gewrichtsziekte, wat kraakbeen en bot
 
 ## Methode
 
+<p align="center">
+  <img src="Assets/Flowschema.png" alt="Flowschema werk methode" width="400"/>
+   <p>Figuur 1: Flowschema van uitgevoerde analyses met de verkregen dataset. Hier bestaat de dataset uit 4 patiënten met RA en 4 gezonde vrijwilligers, waarbij de monsters zijn verkregen vanuit een synoviumbiopt.</p>
+</p>
 Om te bepalen welke genen veranderd tot expressie komen in patiënten met RA, werden er analyses uitgevoerd op de genexpressie in Rstudio. De dataset bestaat hier uit gegevens van vier patiënten met reuma en vier gezonde vrijwilligers, waarbij er monsters zijn verzameld door middel van een synoviumbiopt. Op deze monsters is een ACPA uitgevoerd, dit meet autoantistoffen tegen het CCP (cyclische gecitrullineerde peptiden) eiwit. Hier werd een transcriptomics analyse uitgevoerd, waarbij het humane genoom (GRCh38.114) werd gedownload en geïndexeerd (package: Rsubread – 2.20.0) in Rstudio (versie 4.4.1). Daarna werden de reads gemapt met dit genoom, hierbij werden BAM-bestanden gemaakt voor elk monster [(Data)](Data/). Hierin wordt weergegeven welke reads gemapt zijn, waar op het genoom ze gemapt zijn en wordt de kwaliteit en mismatches weergegeven (package: Rsamtools – 2.22.0). Om vervolgens de countmatrix uit te voeren, werd een GTF bestand gedownload van het humane genoom. Hiermee werd de countmatrix uitgevoerd, waarbij er bepaald wordt hoeveel reads er op elk gen valt. (Packages: readr – 2.1.5 , dplyr – 1.1.4). Hier werd de matrix met tellingen uitgehaald, waarmee een behandelingstabel werd gemaakt. Met deze tabel en de countmatrix werd een DESeqDataSet gemaakt (package: DESeq2 – 1.46.0), dit werd gesorteerd op opvallende genen, wat gevisualiseerd werd met een Volcano Plot (package: EnhancedVolcano – 1.24.0). Vervolgens werd er een GO-analyse uitgevoerd om betrokken biologische processen te bepalen, waarbij de top 15 is gevisualiseerd (packages: goseq – 1.58.0, geneLenDataBase – 1.42.0, org.Dm.eg.db – 3.20.0, GO.db – 3.20.0, ggplot2 – 3.5.2, tidyverse – 2.0.0). Daarna is er een KEGG analyse gebruikt om genexpressie betrokken bij antigeen verwerking en presentatie te analyseren (package: KEGGREST – 1.46.0). Hierbij is het script gebruikt zoals in [dit bestand](Scripts/).
 
 ## Resultaten
@@ -30,18 +34,18 @@ Om te bepalen welke genen veranderd tot expressie komen in patiënten met RA, we
 Aan de hand van de count matrix is er een volcano plot gemaakt, hier zijn er een groot aantal genen die verhoogde expressie vertonen, zoals weergegeven in figuur 1.
 <p align="center">
   <img src="Resultaten/VolcanoplotProject2.png" alt="Volcano plot" width="250"/>
-  <p>Figuur 1: Volcano plot waarbij de log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -log10P aangeeft hoe zeker de log2FoldChange is.</p>
+  <p>Figuur 2: Volcano plot waarbij de log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -log10P aangeeft hoe zeker de log2FoldChange is.</p>
   </p>
 In de volcano plot is weerggegeven in hoeverre genen veranderde genexpressie hebben, waarbij de Log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -Log10P aangeeft hoe zeker de Log2FoldChange is.
 
 Met de GO-analyse is bepaald welk biologische pad geanalyseerd kan worden met de KEGG-analyse, zoals weergegeven in figuur 2.
 <p align="center">
   <img src="Resultaten/Go analyse.png" alt="KEGG analyse" width="350"/>
-  <p>Figuur 2: Go analyse waarbij 15 biologische paden zijn weergegeven.</p>  
+  <p>Figuur 3: Go analyse waarbij 15 biologische paden zijn weergegeven.</p>  
 Aan de hand van deze Go-analyse, is een KEGG analyse uitgevoerd op de antigeen verwerking en presentatie, waarbij de verandering in expressie binnen deze route is bepaald, zoals weergegeven in figuur 1.
 <p align="center">
   <img src="Resultaten/kegg analyse antigen processing and presentation.png" alt="KEGG analyse" width="350"/>
-  <p>Figuur 3: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
+  <p>Figuur 4: KEGG analyse waarbij rode vlakken vergrootte expressie is van een stof en groene vlakken verminderde expressie is.</p>
   </p>
 Uit de legenda is waar te nemen dat rode vakken geassocieerd worden met vermeerdering van expressie van die stof en groene vakken met vermindering van expressie. Zo hebben CD8, Natural Killer (NK) cellen en het MHCII pad vergrootte expressie. 
 
