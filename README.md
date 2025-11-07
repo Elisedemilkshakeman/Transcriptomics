@@ -14,6 +14,7 @@ Om zorg voor Reumatoide atritis patienten te verbeteren, worden hier de verander
 - 'Resultaten/' - Grafieken en bestanden met resultaten
 - 'Bronnen/' - Literatuur gebruikt voor dit onderzoek
 - 'Assets/' - Overig gebruikte bestanden en afbeeldingen voor deze pagina
+- 'Data stewardship/' - het beheren van data en hoe het toegpast is op deze Github pagina
 
 ---
 
