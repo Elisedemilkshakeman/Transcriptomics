@@ -32,12 +32,13 @@ Om te bepalen welke genen veranderd tot expressie komen in patiënten met RA, we
 
 ## Resultaten
 
-Aan de hand van de count matrix is er een volcano plot gemaakt, hier zijn er een groot aantal genen die verhoogde expressie vertonen, zoals weergegeven in figuur 1.
+Met de vekregen data door middel van een ACPA op een synoviumbiopt, werd een transcriptomics analyse uitgevoerd. Met de verkregen BAM-files na het mappen van de reads aan de hand van het humane genoom, werd een countmatrix uitgevoerd.
+Aan de hand van de countmatrix is er een volcano plot gemaakt, hier zijn er een groot aantal genen die verhoogde expressie vertonen, zoals weergegeven in figuur 1.
 <p align="center">
   <img src="Resultaten/VolcanoplotProject2.png" alt="Volcano plot" width="250"/>
   <p>Figuur 2: Volcano plot waarbij de log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -log10P aangeeft hoe zeker de log2FoldChange is.</p>
   </p>
-In de volcano plot is weerggegeven in hoeverre genen veranderde genexpressie hebben, waarbij de Log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -Log10P aangeeft hoe zeker de Log2FoldChange is.
+In de volcano plot is weerggegeven in hoeverre genen veranderde genexpressie hebben, waarbij de Log2FoldChange aangeeft hoe vaak de expressie is verdubbeld of gehalveerd en de -Log10P aangeeft hoe zeker de Log2FoldChange is. Hierbij geldt: hoe hoger de -Log10P, hoe zekerder de Log2FoldChange. Zo hebben de genen die zijn weergegeven in het groen een te lage -Log10P, wat betekent dat de Log2FoldChange heel onzeker is. De in rood weergegeven genen zijn dus genen met een significante en zekere verandering in expressie.
 
 Met de GO-analyse is bepaald welk biologische pad geanalyseerd kan worden met de KEGG-analyse, zoals weergegeven in figuur 2.
 <p align="center">
